@@ -1,0 +1,1027 @@
+﻿ID,Marital Status,Gender, Income ,Children,Education,Occupation,Home Owner,Cars,Commute Distance,Region,Age,Purchased Bike
+12496,M,F," $40,000 ",1,Bachelors,Skilled Manual,Yes,0,0-1 Miles,Europe,42,N
+24107,M,M," $30,000 ",3,Partial College,Clerical,Yes,1,0-1 Miles,Europe,43,No
+14177,married,Male," $80,000 ",5,Partial College,Professional,No,2,2-5 Miles,Europe,60,No
+24381,S,Male," $70,000 ",0,Bachelors,Professional,Yes,1,5-10 Miles,Pacific,41,Y
+25597,S,M,,0,Bachelors,Clerical,No,0,0-1 Miles,Europe,36,Yes
+13507,M,F," $10,000 ",2,Partial College,Manual,Yes,0,1-2 Miles,Europe,50,No
+27974,S,M," $160,000 ",2,High School,,Yes,4,0-1 Miles,Pacific,33,Yes
+19364,M,M," $40,000 ",1,Bachelors,Skilled Manual,Yes,0,0-1 Miles,Europe,43,Yes
+22155,M,M," $20,000 ",2,Partial High School,Clerical,Yes,2,5-10 Miles,Pacific,58,No
+19280,M,M," $120,000 ",2,Partial College,Manual,Yes,1,0-1 Miles,Europe,40,Yes
+22173,M,Female," $30,000 ",3,High School,Skilled Manual,No,2,1-2 Miles,Pacific,54,Yes
+12697,S,F," $90,000 ",0,Bachelors,Professional,No,4,10+ Miles,Pacific,36,No
+11434,M,M," $170,000 ",5,Partial College,Professional,Yes,0,0-1 Miles,Europe,55,No
+25323,M,Male," $40,000 ",2,Partial College,Clerical,Yes,1,1-2 Miles,Europe,35,Y
+23542,S,M," $60,000 ",1,Partial College,Skilled Manual,No,1,0-1 Miles,Pacific,45,Y
+20870,S,F," $10,000 ",2,High School,Manual,Yes,1,0-1 Miles,Europe,38,y
+23316,S,M," $30,000 ",one,Partial College,Clerical,No,2,1-2 Miles,Pacific,59,y
+12610,M,F," $30,000 ",1,Bachelors,,Yes,0,0-1 Miles,Europe,47,n
+27183,S,M," $40,000 ",2,Partial College,Clerical,Yes,1,1-2 Miles,,35,Yes
+25940,S,M," $20,000 ",2,Partial High School,Clerical,Yes,2,5-10 Miles,Pacific,55,Yes
+25598,M,F," $40,000 ",0,Graduate Degree,Clerical,Yes,0,0-1 Miles,Europe,36,Yes
+21564,S,F," $80,000 ",0,Bachelors,Professional,Yes,4,10+ Miles,Pacific,35,No
+19193,S,M," $40,000 ",2,Partial College,Clerical,Yes,0,1-2 Miles,Europe,35,Yes
+26412,M,F," $80,000 ",5,High School,Management,No,3,5-10 Miles,Europe,56,No
+27184,S,M," $40,000 ",2,Partial College,Clerical,No,1,0-1 Miles,Europe,34,No
+12590,S,M," $30,000 ",1,Bachelors,Clerical,Yes,0,0-1 Miles,Europe,63,No
+17841,S,M," $30,000 ",0,Partial College,Clerical,No,1,0-1 Miles,Europe,29,Yes
+18283,S,F," $100,000 ",0,Bachelors,Professional,No,1,5-10 Miles,Pacific,40,No
+18299,M,M," $70,000 ",5,Partial College,Skilled Manual,Yes,2,5-10 Miles,Pacific,44,No
+16466,S,F," $20,000 ",0,Partial High School,Manual,No,2,0-1 Miles,Europe,32,Yes
+19273,M,F," $20,000 ",2,Partial College,Manual,Yes,0,0-1 Miles,Europe,63,n
+22400,M,M," $10,000 ",0,Partial College,Manual,No,1,0-1 Miles,,26,Yes
+20942,S,F," $20,000 ",one,High School,Manual,No,1,5-10 Miles,Europe,31,No
+18484,S,M," $80,000 ",2,High School,Skilled Manual,No,2,1-2 Miles,Pacific,50,Yes
+12291,S,M," $90,000 ",5,Partial College,Professional,No,2,2-5 Miles,Europe,62,Yes
+28380,S,F," $10,000 ",5,Partial High School,Manual,No,2,0-1 Miles,Europe,41,No
+17891,M,F, M ,2,Partial College,Manual,Yes,1,0-1 Miles,Europe,50,Yes
+27832,S,F," $30,000 ",0,Partial College,Clerical,No,1,2-5 Miles,Europe,30,n
+26863,S,M," $20,000 ",0,High School,Manual,No,1,2-5 Miles,Europe,28,No
+16259,S,F," $10,000 ",4,Partial High School,Manual,Yes,2,0-1 Miles,Europe,40,Yes
+27803,S,Female," $30,000 ",2,Partial College,Clerical,No,0,0-1 Miles,Europe,43,No
+14347,S,F," $40,000 ",2,Bachelors,Management,Yes,2,5-10 Miles,Pacific,65,Yes
+17703,M,F," $10,000 ",1,,Manual,Yes,0,0-1 Miles,Europe,40,n
+17185,M,F, AFSOU ,4,Partial College,Professional,No,3,5-10 Miles,Europe,48,Yes
+29380,M,F," $20,000 ",3,High School,Manual,Yes,0,0-1 Miles,Europe,41,y
+23986,M,F," $20,000 ",1,Bachelors,Clerical,Yes,0,0-1 Miles,Europe,66,Yes
+24466,M,F," $60,000 ",1,Partial College,Skilled Manual,Yes,1,5-10 Miles,Pacific,46,Yes
+29097,S,F," $40,000 ",2,Partial College,Skilled Manual,Yes,2,5-10 Miles,Pacific,52,Yes
+19487,M,M, five ,2,Partial College,Clerical,No,2,0-1 Miles,Europe,42,No
+14939,S,Male," $40,000 ",0,Bachelors,Clerical,Yes,0,0-1 Miles,Europe,39,Yes
+13826,S,F," $30,000 ",0,Partial College,Clerical,No,1,0-1 Miles,Europe,28,No
+20619,S,M," $80,000 ",0,Bachelors,Professional,No,4,10+ Miles,Pacific,35,No
+12558,M,F," $20,000 ",1,Bachelors,Clerical,Yes,0,0-1 Miles,Europe,65,No
+24871,S,F," $90,000 ",4,High School,Management,No,3,5-10 Miles,Europe,56,No
+17319,S,F," $70,000 ",0,Bachelors,Professional,No,1,5-10 Miles,Pacific,42,No
+28906,M,M, LKJLF ,4,High School,Professional,Yes,2,10+ Miles,Europe,54,No
+12808,M,M," $40,000 ",0,Bachelors,Clerical,Yes,0,0-1 Miles,Europe,38,Yes
+20567,M,M," $130,000 ",4,Partial College,Professional,No,4,5-10 Miles,Europe,61,Yes
+25502,M,F," $40,000 ",1,Bachelors,Skilled Manual,Yes,0,0-1 Miles,Europe,43,Yes
+15580,M,M," $60,000 ",2,Bachelors,Professional,Yes,1,2-5 Miles,Pacific,38,Yes
+24185,S,F," $10,000 ",1,High School,Manual,No,1,1-2 Miles,Europe,45,N
+19291,S,F," $10,000 ",2,High School,Manual,Yes,0,0-1 Miles,Europe,35,No
+16713,M,M," $40,000 ",2,Bachelors,Management,Yes,1,0-1 Miles,Pacific,52,Yes
+16185,S,M," $60,000 ",4,Bachelors,Professional,Yes,3,10+ Miles,Pacific,41,No
+14927,M,F," $30,000 ",1,Bachelors,Clerical,Yes,0,0-1 Miles,Europe,37,Yes
+29337,S,M," $30,000 ",2,Partial College,Clerical,Yes,2,5-10 Miles,Pacific,68,No
+29355,M,F," $40,000 ",0,,Clerical,Yes,0,0-1 Miles,Europe,37,Yes
+25303,S,M," $30,000 ",0,High School,Manual,Yes,1,2-5 Miles,Europe,33,Yes
+14813,S,F," $20,000 ",4,High School,Manual,Yes,1,0-1 Miles,Europe,43,y
+16438,M,F," $10,000 ",0,Partial High School,Manual,No,2,0-1 Miles,Europe,30,No
+14238,M,M," $120,000 ",0,Partial High School,Professional,Yes,4,10+ Miles,Pacific,36,Yes
+16200,S,F," $10,000 ",0,Partial High School,Manual,No,2,0-1 Miles,Europe,35,No
+24857,M,F," $130,000 ",3,High School,Professional,Yes,4,0-1 Miles,Europe,52,No
+26956,S,F," $20,000 ",0,Partial College,Manual,No,1,2-5 Miles,Europe,36,Yes
+14517,M,F," $20,000 ",3,High School,Skilled Manual,No,2,1-2 Miles,Pacific,62,No
+12678,S,F," $130,000 ",4,High School,Management,Yes,4,0-1 Miles,Pacific,31,No
+16188,S,F," $20,000 ",0,Partial High School,Manual,No,2,1-2 Miles,Europe,26,No
+27969,M,M," $80,000 ",0,Bachelors,Professional,Yes,2,10+ Miles,Pacific,29,Yes
+15752,M,M," $80,000 ",2,High School,Skilled Manual,No,2,1-2 Miles,Pacific,50,Yes
+27745,S,M," $40,000 ",2,Bachelors,Management,Yes,2,5-10 Miles,Pacific,63,Yes
+20828,M,F," $30,000 ",4,Graduate Degree,Clerical,Yes,0,0-1 Miles,Europe,45,Yes
+19461,S,F," $10,000 ",4,Partial High School,Manual,Yes,2,0-1 Miles,Europe,40,N
+26941,M,M," $30,000 ",0,Bachelors,Clerical,Yes,0,0-1 Miles,Europe,47,Y
+28412,S,M," $20,000 ",0,High School,Manual,No,1,2-5 Miles,Europe,29,No
+24485,S,M," $40,000 ",2,Bachelors,Management,No,1,5-10 Miles,Pacific,52,Yes
+16514,S,M," $10,000 ",0,,Manual,Yes,1,1-2 Miles,Pacific,26,Yes
+17191,S,M," $130,000 ",3,Partial College,Professional,No,3,0-1 Miles,Europe,51,Yes
+19608,M,M," $80,000 ",5,Bachelors,Professional,Yes,4,1-2 Miles,Pacific,40,No
+24119,S,M," $30,000 ",0,Partial College,Clerical,No,1,2-5 Miles,Europe,29,No
+25458,M,M," $20,000 ",1,High School,Manual,No,1,1-2 Miles,Europe,40,Yes
+26886,S,F," $30,000 ",0,Partial College,Clerical,No,1,0-1 Miles,Europe,29,Yes
+28436,S,M," $30,000 ",0,Partial College,Clerical,No,1,0-1 Miles,Europe,30,Yes
+19562,S,F," $60,000 ",2,Bachelors,Professional,Yes,1,2-5 Miles,Pacific,37,Yes
+15608,S,F," $30,000 ",0,Partial College,Clerical,No,1,2-5 Miles,Europe,33,No
+16487,S,F," $30,000 ",3,High School,Skilled Manual,Yes,2,5-10 Miles,Pacific,55,No
+17197,S,F," $90,000 ",5,,Professional,Yes,2,10+ Miles,Europe,62,No
+12507,M,M," $30,000 ",1,Partial College,Clerical,Yes,1,0-1 Miles,Europe,43,No
+23940,M,M," $40,000 ",1,Bachelors,Skilled Manual,Yes,1,0-1 Miles,Europe,44,Yes
+19441,M,M," $40,000 ",0,Graduate Degree,Clerical,Yes,0,0-1 Miles,Europe,25,Yes
+26852,M,F," $20,000 ",3,High School,Manual,Yes,2,0-1 Miles,Europe,43,No
+12274,S,M," $10,000 ",2,High School,Manual,Yes,0,0-1 Miles,Europe,35,n
+20236,S,M," $60,000 ",3,Bachelors,Professional,No,2,0-1 Miles,Pacific,43,Yes
+24149,M,M," $10,000 ",2,Partial College,Manual,Yes,0,1-2 Miles,Europe,49,No
+26139,S,M," $60,000 ",1,Partial College,Skilled Manual,Yes,1,5-10 Miles,Pacific,45,No
+18491,S,F," $70,000 ",2,High School,Professional,Yes,2,5-10 Miles,Pacific,49,Yes
+22707,S,F," $30,000 ",0,Partial College,Clerical,No,1,2-5 Miles,Europe,30,No
+20430,M,M," $70,000 ",2,Partial College,Skilled Manual,Yes,2,5-10 Miles,Pacific,52,Yes
+27494,S,F," $40,000 ",2,Partial College,Skilled Manual,No,2,1-2 Miles,Pacific,53,Yes
+26829,M,F," $40,000 ",0,Bachelors,Clerical,Yes,0,0-1 Miles,Europe,38,Yes
+28395,S,M," $40,000 ",0,Bachelors,Professional,No,0,0-1 Miles,Europe,39,Yes
+21006,S,F," $30,000 ",1,Partial College,Manual,No,0,0-1 Miles,Europe,46,Yes
+14682,S,F," $70,000 ",0,Bachelors,Professional,No,1,5-10 Miles,Pacific,38,No
+17650,S,F," $40,000 ",2,Partial College,Clerical,Yes,2,1-2 Miles,Europe,35,No
+29191,S,F," $130,000 ",1,,Management,No,1,0-1 Miles,Pacific,36,Yes
+15030,M,M," $20,000 ",0,Bachelors,Clerical,Yes,0,0-1 Miles,Pacific,26,Yes
+24140,S,M," $10,000 ",0,Graduate Degree,Manual,No,0,0-1 Miles,Europe,30,Yes
+22496,M,F," $30,000 ",1,Bachelors,Skilled Manual,Yes,2,0-1 Miles,Europe,42,No
+24065,S,F," $20,000 ",0,High School,Manual,Yes,0,0-1 Miles,Europe,40,Yes
+19914,M,M," $80,000 ",5,Bachelors,Management,Yes,2,2-5 Miles,Europe,62,No
+12871,S,F," $30,000 ",0,Partial College,Clerical,No,1,2-5 Miles,Europe,29,n
+22988,M,F," $40,000 ",2,Bachelors,Management,Yes,2,5-10 Miles,Pacific,66,Yes
+15922,M,M," $150,000 ",2,High School,Professional,Yes,4,0-1 Miles,Europe,48,No
+12344,S,F," $80,000 ",0,,Professional,No,3,10+ Miles,Pacific,31,No
+23627,S,F," $100,000 ",3,Partial College,Management,No,4,5-10 Miles,Europe,56,No
+27775,S,F," $40,000 ",0,Bachelors,Clerical,No,0,0-1 Miles,Europe,38,Yes
+29301,M,M," $80,000 ",5,Bachelors,Professional,Yes,4,1-2 Miles,Pacific,40,No
+12716,S,M," $30,000 ",0,Partial College,Clerical,Yes,1,2-5 Miles,Europe,32,No
+12472,M,M," $30,000 ",1,Bachelors,Clerical,Yes,1,2-5 Miles,Europe,39,No
+20970,S,M," $10,000 ",2,Partial College,Manual,Yes,1,0-1 Miles,Europe,52,Yes
+26818,S,M," $10,000 ",3,High School,Manual,Yes,1,0-1 Miles,Europe,39,Yes
+12993,M,M," $60,000 ",2,Bachelors,Professional,Yes,1,2-5 Miles,Pacific,37,No
+14192,M,M," $90,000 ",4,High School,Management,Yes,3,5-10 Miles,Europe,56,Yes
+19477,M,M," $40,000 ",0,Bachelors,Professional,Yes,0,0-1 Miles,Europe,40,Yes
+26796,S,M," $40,000 ",2,Bachelors,Management,Yes,2,5-10 Miles,Pacific,65,Yes
+21094,S,F," $30,000 ",2,,Clerical,Yes,2,0-1 Miles,Europe,42,No
+12234,M,M," $10,000 ",2,Partial College,Manual,Yes,1,2-5 Miles,Europe,52,No
+28683,S,F," $10,000 ",1,High School,Manual,No,1,5-10 Miles,Europe,35,Yes
+17994,S,M," $20,000 ",2,High School,Manual,Yes,2,0-1 Miles,Europe,42,No
+24273,M,F," $20,000 ",2,Partial High School,Clerical,Yes,2,5-10 Miles,Pacific,55,Yes
+26547,S,F, one ,2,Partial College,Clerical,No,2,5-10 Miles,Pacific,60,Yes
+22500,S,M," $40,000 ",0,,Professional,No,0,0-1 Miles,Europe,40,Yes
+23993,S,F," $10,000 ",0,Partial College,Manual,No,1,0-1 Miles,Pacific,26,Yes
+14832,M,M," $40,000 ",1,Bachelors,Skilled Manual,Yes,0,0-1 Miles,Europe,42,Yes
+16614,M,F," $80,000 ",0,Bachelors,Professional,Yes,3,10+ Miles,Pacific,32,No
+20877,S,M," $30,000 ",1,Bachelors,Clerical,Yes,0,1-2 Miles,Europe,37,Yes
+20729,married,F," $40,000 ",2,Partial College,Clerical,No,1,0-1 Miles,Europe,34,No
+22464,married,M," $40,000 ",0,Graduate Degree,Clerical,Yes,0,0-1 Miles,Europe,37,Yes
+19475,married,F," $40,000 ",0,Bachelors,Professional,No,0,0-1 Miles,Europe,40,Yes
+19675,M,M," $20,000 ",4,High School,Skilled Manual,Yes,2,5-10 Miles,Pacific,60,No
+12728,S,M," $30,000 ",0,Partial College,Clerical,No,1,1-2 Miles,Europe,27,No
+26154,M,M," $60,000 ",1,Partial College,Skilled Manual,Yes,1,5-10 Miles,Pacific,43,Yes
+29117,S,M," $100,000 ",1,Bachelors,Management,No,3,0-1 Miles,Pacific,48,No
+17845,S,F," $20,000 ",0,Partial High School,Manual,No,2,1-2 Miles,Europe,32,No
+25058,M,M," $100,000 ",1,Bachelors,Management,Yes,3,2-5 Miles,Pacific,47,No
+23426,S,M," $80,000 ",5,Graduate Degree,Management,Yes,3,0-1 Miles,Pacific,40,No
+14798,S,F," $10,000 ",4,Partial High School,Manual,Yes,2,0-1 Miles,Europe,41,Yes
+12664,married,F," $130,000 ",5,Partial College,Professional,Yes,4,0-1 Miles,Europe,59,No
+23979,S,M," $10,000 ",2,,Manual,No,0,0-1 Miles,Europe,50,No
+25605,S,F," $20,000 ",2,Partial College,Manual,No,1,0-1 Miles,Europe,54,Yes
+20797,M,F," $10,000 ",1,Bachelors,Manual,Yes,0,0-1 Miles,Europe,48,No
+21980,S,F," $60,000 ",1,Bachelors,Professional,Yes,1,5-10 Miles,Pacific,44,Yes
+25460,M,F," $20,000 ",2,High School,Manual,Yes,0,0-1 Miles,Europe,40,Yes
+29181,S,F," $60,000 ",2,Bachelors,Professional,No,1,0-1 Miles,Pacific,38,Yes
+24279,S,M," $40,000 ",2,Partial College,Skilled Manual,No,2,1-2 Miles,Pacific,52,n
+22402,M,M," $10,000 ",0,Partial College,Manual,Yes,1,2-5 Miles,Pacific,25,Yes
+15465,M,F," $10,000 ",0,Partial College,Manual,No,1,0-1 Miles,Pacific,25,No
+26757,Single,M," $90,000 ",1,Bachelors,Professional,Yes,1,2-5 Miles,Pacific,47,Yes
+14233,S,M," $100,000 ",0,High School,Management,Yes,3,10+ Miles,Pacific,35,No
+14058,S,M," $70,000 ",0,Bachelors,Professional,No,1,5-10 Miles,Pacific,41,y
+12273,M,M," $30,000 ",1,Bachelors,Clerical,Yes,0,0-1 Miles,Europe,47,No
+17203,M,F," $130,000 ",4,Partial College,Professional,Yes,4,5-10 Miles,Europe,61,Yes
+18144,M,F," $80,000 ",5,Bachelors,Management,Yes,2,2-5 Miles,Europe,61,No
+23963,M,M," $10,000 ",0,Partial High School,Manual,No,2,0-1 Miles,Europe,33,No
+17907,M,F," $10,000 ",0,Partial College,Manual,Yes,1,2-5 Miles,Pacific,27,No
+19442,S,M," $50,000 ",0,Graduate Degree,Skilled Manual,Yes,0,0-1 Miles,Europe,37,Yes
+17504,S,F," $80,000 ",2,Partial College,Skilled Manual,Yes,2,5-10 Miles,Pacific,52,Yes
+12253,S,F," $20,000 ",0,Partial College,Manual,Yes,0,0-1 Miles,Pacific,29,Yes
+27304,S,F," $110,000 ",2,Partial College,Professional,No,3,5-10 Miles,Europe,48,No
+14191,M,M," $160,000 ",4,Partial College,Professional,No,2,10+ Miles,Europe,55,Yes
+12212,M,F," $10,000 ",0,Graduate Degree,Manual,Yes,0,0-1 Miles,Europe,37,Yes
+25529,S,M," $10,000 ",1,Graduate Degree,Manual,Yes,0,0-1 Miles,Europe,44,n
+22170,M,F," $30,000 ",3,Partial College,Clerical,No,2,1-2 Miles,Pacific,55,Yes
+19445,M,F," $10,000 ",2,High School,Manual,No,1,0-1 Miles,Europe,38,No
+15265,S,M," $40,000 ",2,Bachelors,Management,Yes,2,5-10 Miles,Pacific,66,Yes
+28918,M,F," $130,000 ",4,High School,Management,No,4,10+ Miles,Europe,58,No
+15799,M,F," $90,000 ",1,Bachelors,Professional,Yes,1,2-5 Miles,Pacific,47,Yes
+11047,M,F," $30,000 ",3,High School,Skilled Manual,No,2,1-2 Miles,Pacific,56,Yes
+18151,S,M," $80,000 ",5,Partial College,Professional,No,2,10+ Miles,Europe,59,No
+20606,M,F," $70,000 ",0,Bachelors,Professional,Yes,4,10+ Miles,Pacific,32,Yes
+19482,M,M," $30,000 ",1,Partial College,Clerical,Yes,1,0-1 Miles,Europe,44,Yes
+16489,M,M," $30,000 ",3,High School,Skilled Manual,Yes,2,5-10 Miles,Pacific,55,No
+26944,S,M," $90,000 ",2,High School,Manual,Yes,0,0-1 Miles,Europe,36,Yes
+15682,S,F," $80,000 ",5,Bachelors,Management,Yes,2,10+ Miles,Europe,62,No
+26032,M,F," $70,000 ",5,Bachelors,Professional,Yes,4,10+ Miles,Pacific,41,No
+17843,S,F," $10,000 ",0,Partial High School,Manual,No,2,0-1 Miles,Europe,32,No
+25559,S,M," $20,000 ",0,Bachelors,Clerical,Yes,0,0-1 Miles,Pacific,25,Yes
+16209,S,F," $50,000 ",0,Graduate Degree,Skilled Manual,Yes,0,1-2 Miles,Europe,36,No
+11147,M,M," $60,000 ",2,Graduate Degree,Management,Yes,1,0-1 Miles,Pacific,67,Yes
+15214,S,F," $100,000 ",0,Graduate Degree,Management,No,1,1-2 Miles,Pacific,39,Yes
+11453,S,M," $80,000 ",0,Bachelors,Professional,No,3,10+ Miles,Pacific,33,Yes
+24584,S,M," $60,000 ",0,Bachelors,Professional,No,3,2-5 Miles,Pacific,31,No
+12585,M,M," $10,000 ",1,High School,Manual,Yes,0,2-5 Miles,Pacific,27,Yes
+18626,S,M," $40,000 ",2,Partial College,Clerical,Yes,0,1-2 Miles,Europe,33,Yes
+29298,S,F," $60,000 ",1,Partial College,Skilled Manual,Yes,1,5-10 Miles,Pacific,46,Yes
+24842,S,F," $90,000 ",3,High School,Professional,No,1,2-5 Miles,Europe,51,No
+15657,M,M," $30,000 ",3,Graduate Degree,Clerical,Yes,0,0-1 Miles,Europe,46,Yes
+11415,S,M," $90,000 ",5,Partial College,Professional,No,2,10+ Miles,Europe,62,No
+28729,S,F," $20,000 ",0,Partial High School,Manual,Yes,2,1-2 Miles,Europe,26,Yes
+22633,S,F," $40,000 ",0,Graduate Degree,Clerical,Yes,0,0-1 Miles,Europe,37,Yes
+25649,S,F," $30,000 ",3,Partial College,Clerical,Yes,0,0-1 Miles,Europe,42,Yes
+14669,M,F," $80,000 ",4,Graduate Degree,Management,Yes,1,0-1 Miles,Pacific,36,No
+19299,M,F," $50,000 ",0,Graduate Degree,Skilled Manual,Yes,0,0-1 Miles,Europe,36,Yes
+20946,S,F," $30,000 ",0,Partial College,Clerical,No,1,2-5 Miles,Europe,30,No
+11451,S,M," $70,000 ",0,Bachelors,Professional,No,4,10+ Miles,Pacific,31,Yes
+25553,M,M," $30,000 ",1,Bachelors,Clerical,Yes,0,0-1 Miles,Europe,65,Yes
+27951,S,M," $80,000 ",4,Partial College,Professional,No,2,2-5 Miles,Europe,54,Yes
+25026,M,M," $20,000 ",2,Partial High School,Clerical,Yes,3,5-10 Miles,Pacific,54,No
+13673,S,F," $20,000 ",0,Partial High School,Manual,No,2,0-1 Miles,Europe,25,No
+16043,S,M," $10,000 ",1,Bachelors,Manual,Yes,0,0-1 Miles,Europe,48,No
+22399,S,M," $10,000 ",0,Partial College,Manual,Yes,1,1-2 Miles,Pacific,26,Yes
+27696,M,M," $60,000 ",1,Bachelors,Professional,Yes,1,5-10 Miles,Pacific,43,Yes
+25313,S,M," $10,000 ",0,Partial High School,Manual,No,2,1-2 Miles,Europe,35,No
+13813,M,F," $30,000 ",3,Partial College,Clerical,No,0,0-1 Miles,Europe,42,No
+18711,S,F," $70,000 ",5,Bachelors,Professional,Yes,4,10+ Miles,Pacific,39,No
+19650,M,F," $30,000 ",2,Partial College,Clerical,No,2,0-1 Miles,Pacific,67,n
+14135,M,M," $20,000 ",1,Partial College,Manual,Yes,0,1-2 Miles,Europe,35,No
+12833,S,F," $20,000 ",3,High School,Manual,Yes,1,0-1 Miles,Europe,42,Yes
+26849,M,M," $10,000 ",3,Partial High School,Manual,Yes,2,0-1 Miles,Europe,43,No
+20962,M,F," $20,000 ",1,Graduate Degree,Clerical,Yes,0,0-1 Miles,Europe,45,No
+28915,S,M," $80,000 ",5,High School,Management,Yes,3,10+ Miles,Europe,57,No
+22830,M,M," $120,000 ",4,Partial College,Management,Yes,3,10+ Miles,Europe,56,No
+14777,M,F," $40,000 ",0,Bachelors,Clerical,Yes,0,0-1 Miles,Europe,38,Yes
+12591,M,F," $30,000 ",4,Graduate Degree,Clerical,Yes,0,0-1 Miles,Europe,45,No
+24174,M,M," $20,000 ",0,Bachelors,Clerical,Yes,0,0-1 Miles,Pacific,27,Yes
+24611,S,M," $90,000 ",0,Bachelors,Professional,No,4,10+ Miles,Pacific,35,Yes
+11340,M,F," $10,000 ",1,Graduate Degree,Clerical,Yes,0,0-1 Miles,Europe,70,Yes
+25693,S,F," $30,000 ",5,Graduate Degree,Clerical,Yes,0,0-1 Miles,Europe,44,Yes
+25555,M,F," $10,000 ",0,Partial College,Manual,No,1,0-1 Miles,Pacific,26,Yes
+22006,M,M," $70,000 ",5,Partial College,Skilled Manual,Yes,3,5-10 Miles,Pacific,46,No
+20060,S,F," $30,000 ",0,High School,Manual,No,1,2-5 Miles,Europe,34,Yes
+17702,M,M," $10,000 ",1,Graduate Degree,Manual,Yes,0,0-1 Miles,Europe,37,No
+12503,S,F," $30,000 ",3,Partial College,Clerical,Yes,2,0-1 Miles,Europe,27,No
+23908,S,M," $30,000 ",1,Bachelors,Clerical,No,1,0-1 Miles,Europe,39,Yes
+22527,S,F," $20,000 ",0,High School,Manual,No,1,2-5 Miles,Europe,29,No
+19057,M,F," $120,000 ",3,Bachelors,Management,No,2,10+ Miles,Europe,52,Yes
+18494,M,M," $110,000 ",5,Bachelors,Management,Yes,4,2-5 Miles,Pacific,48,y
+11249,M,F," $130,000 ",3,Partial College,Professional,Yes,3,0-1 Miles,Europe,51,y
+21568,M,F," $100,000 ",0,High School,Management,Yes,4,10+ Miles,Pacific,34,Yes
+13981,M,F," $10,000 ",5,High School,Skilled Manual,No,3,1-2 Miles,Pacific,62,No
+23432,S,M," $70,000 ",0,Bachelors,Professional,Yes,1,5-10 Miles,Pacific,37,Yes
+22931,M,M," $100,000 ",5,Graduate Degree,Management,No,1,1-2 Miles,Pacific,78,Yes
+18172,M,M," $130,000 ",4,High School,Professional,Yes,3,0-1 Miles,Europe,55,No
+12666,S,M," $60,000 ",0,Bachelors,Professional,No,4,2-5 Miles,Pacific,31,No
+20598,M,M," $100,000 ",3,Partial High School,Professional,Yes,0,10+ Miles,Europe,59,Yes
+21375,S,M," $20,000 ",2,Partial High School,Clerical,Yes,2,5-10 Miles,Pacific,57,No
+20839,S,F," $30,000 ",3,Graduate Degree,Clerical,Yes,0,0-1 Miles,Europe,47,Yes
+21738,M,M," $20,000 ",1,Graduate Degree,Clerical,Yes,0,0-1 Miles,Europe,43,No
+14164,S,F," $50,000 ",0,Graduate Degree,Skilled Manual,Yes,0,0-1 Miles,Europe,36,Yes
+14193,S,F," $100,000 ",3,Partial College,Management,Yes,4,10+ Miles,Europe,56,No
+12705,M,M," $150,000 ",0,Bachelors,Management,Yes,4,0-1 Miles,Pacific,37,Yes
+22672,S,F," $30,000 ",2,Partial College,Clerical,Yes,0,0-1 Miles,Europe,43,No
+26219,M,F," $40,000 ",1,Bachelors,Skilled Manual,Yes,1,1-2 Miles,Europe,33,Yes
+28468,M,F," $10,000 ",2,Partial College,Manual,Yes,0,1-2 Miles,Europe,51,No
+23419,S,F," $70,000 ",5,Bachelors,Professional,Yes,3,10+ Miles,Pacific,39,No
+17964,M,M," $40,000 ",0,Graduate Degree,Clerical,Yes,0,0-1 Miles,Europe,37,Yes
+20919,S,F," $30,000 ",2,Partial College,Clerical,Yes,2,0-1 Miles,Europe,42,No
+20927,S,F," $20,000 ",5,High School,Manual,Yes,2,0-1 Miles,Europe,27,No
+13133,S,M," $100,000 ",5,Bachelors,Professional,Yes,1,5-10 Miles,Pacific,47,Yes
+19626,M,M," $70,000 ",5,Partial College,Skilled Manual,Yes,3,5-10 Miles,Pacific,45,No
+21039,S,F," $50,000 ",0,Graduate Degree,Skilled Manual,No,0,0-1 Miles,Europe,37,Yes
+12231,S,F," $10,000 ",2,Partial College,Manual,Yes,0,0-1 Miles,Europe,51,Yes
+25665,S,F," $20,000 ",0,High School,Manual,No,1,1-2 Miles,Europe,28,No
+24061,M,M," $10,000 ",4,Partial High School,Manual,Yes,1,0-1 Miles,Europe,40,Yes
+26879,S,F," $20,000 ",0,High School,Manual,No,1,2-5 Miles,Europe,30,No
+12284,M,F," $30,000 ",0,Bachelors,Clerical,No,0,0-1 Miles,Europe,36,Yes
+26654,M,F," $90,000 ",1,Graduate Degree,Management,Yes,0,0-1 Miles,Pacific,37,Yes
+14545,M,F," $10,000 ",2,Partial College,Manual,Yes,0,1-2 Miles,Europe,49,No
+24201,M,F," $10,000 ",2,High School,Manual,Yes,0,0-1 Miles,Europe,37,Yes
+20625,M,M," $100,000 ",0,High School,Management,Yes,3,10+ Miles,Pacific,35,Yes
+16390,S,M," $30,000 ",1,Bachelors,Clerical,No,0,0-1 Miles,Europe,38,Yes
+14804,S,F," $10,000 ",3,Partial High School,Manual,Yes,2,0-1 Miles,Europe,43,No
+12629,S,M," $20,000 ",1,Partial College,Manual,No,0,0-1 Miles,Europe,37,No
+14696,S,M," $10,000 ",0,Partial High School,Manual,No,2,0-1 Miles,Europe,34,No
+22005,M,F," $70,000 ",5,Partial College,Skilled Manual,No,3,5-10 Miles,Pacific,46,No
+14544,S,M," $10,000 ",1,Partial College,Manual,Yes,0,0-1 Miles,Europe,49,No
+14312,M,F," $60,000 ",1,Partial College,Skilled Manual,Yes,1,5-10 Miles,Pacific,45,No
+29120,S,F," $100,000 ",1,Bachelors,Management,Yes,4,2-5 Miles,Pacific,48,No
+24187,S,F," $30,000 ",3,Graduate Degree,Clerical,No,0,0-1 Miles,Europe,46,Yes
+15758,M,M," $130,000 ",0,Graduate Degree,Management,Yes,0,5-10 Miles,Pacific,48,No
+29094,M,M," $30,000 ",3,High School,Skilled Manual,Yes,2,5-10 Miles,Pacific,54,Yes
+28319,S,F," $60,000 ",1,Partial College,Skilled Manual,No,1,0-1 Miles,Pacific,46,Yes
+16406,M,M," $40,000 ",0,Bachelors,Clerical,No,0,0-1 Miles,Europe,38,Yes
+20923,M,F," $40,000 ",1,Bachelors,Skilled Manual,Yes,0,0-1 Miles,Europe,42,Yes
+11378,S,F," $10,000 ",1,High School,Manual,No,1,2-5 Miles,Europe,46,Yes
+20851,S,M," $20,000 ",0,Partial College,Manual,No,1,2-5 Miles,Europe,36,Yes
+21557,S,F," $110,000 ",0,Partial College,Management,Yes,3,10+ Miles,Pacific,32,Yes
+26663,S,F," $60,000 ",2,Bachelors,Professional,No,1,0-1 Miles,Pacific,39,Yes
+11896,M,M," $100,000 ",1,Graduate Degree,Management,Yes,0,2-5 Miles,Pacific,36,Yes
+14189,M,F," $90,000 ",4,High School,Professional,No,2,2-5 Miles,Europe,54,Yes
+13136,M,F," $30,000 ",2,Partial College,Clerical,No,2,5-10 Miles,Pacific,69,No
+25906,S,F," $10,000 ",5,High School,Skilled Manual,No,2,1-2 Miles,Pacific,62,No
+17926,S,F," $40,000 ",0,Bachelors,Clerical,No,0,0-1 Miles,Pacific,28,Yes
+26928,S,M," $30,000 ",1,Bachelors,Clerical,Yes,0,0-1 Miles,Europe,62,Yes
+20897,M,F," $30,000 ",1,Bachelors,Skilled Manual,Yes,2,0-1 Miles,Europe,40,No
+28207,M,M," $80,000 ",4,Graduate Degree,Management,Yes,1,0-1 Miles,Pacific,36,Yes
+25923,S,M," $10,000 ",2,Partial High School,Clerical,Yes,2,5-10 Miles,Pacific,58,No
+11000,M,M," $90,000 ",2,Bachelors,Professional,Yes,0,1-2 Miles,Pacific,40,Yes
+20974,M,M," $10,000 ",2,Bachelors,Clerical,Yes,1,0-1 Miles,Europe,66,No
+28758,M,M," $40,000 ",2,Partial College,Clerical,Yes,1,1-2 Miles,Europe,35,Yes
+11381,M,F," $20,000 ",2,Partial College,Manual,Yes,1,2-5 Miles,Europe,47,Yes
+17522,M,M," $120,000 ",4,Bachelors,Management,Yes,1,2-5 Miles,Pacific,47,No
+21207,M,M," $60,000 ",1,Partial College,Skilled Manual,Yes,1,5-10 Miles,Pacific,46,No
+28102,M,M," $20,000 ",4,High School,Skilled Manual,Yes,2,5-10 Miles,Pacific,58,Yes
+23105,S,M," $40,000 ",3,Partial High School,Clerical,No,2,5-10 Miles,Pacific,52,Yes
+18740,M,M," $80,000 ",5,Bachelors,Professional,No,1,0-1 Miles,Pacific,47,Yes
+21213,S,M," $70,000 ",0,Bachelors,Professional,No,1,5-10 Miles,Pacific,41,No
+17352,M,M," $50,000 ",2,Graduate Degree,Management,Yes,1,5-10 Miles,Pacific,64,Yes
+14154,M,M," $30,000 ",0,Bachelors,Clerical,Yes,0,0-1 Miles,Europe,35,Yes
+19066,M,M," $130,000 ",4,Partial College,Professional,No,3,10+ Miles,Europe,54,No
+11386,M,F," $30,000 ",3,Bachelors,Clerical,Yes,0,0-1 Miles,Europe,45,No
+20228,M,M," $100,000 ",0,Graduate Degree,Management,Yes,0,2-5 Miles,Pacific,40,Yes
+16675,S,F," $160,000 ",0,Graduate Degree,Management,No,3,0-1 Miles,Pacific,47,Yes
+16410,S,F," $10,000 ",4,Partial High School,Manual,Yes,2,0-1 Miles,Europe,41,Yes
+27760,S,F," $40,000 ",0,Graduate Degree,Clerical,No,0,0-1 Miles,Europe,37,Yes
+22930,M,M," $90,000 ",4,Bachelors,Professional,Yes,0,1-2 Miles,Pacific,38,Yes
+23780,S,M," $40,000 ",2,Partial College,Clerical,No,2,0-1 Miles,Europe,36,Yes
+20994,M,F," $20,000 ",0,Bachelors,Clerical,No,0,0-1 Miles,Pacific,26,Yes
+28379,M,M," $30,000 ",1,Bachelors,Skilled Manual,Yes,2,0-1 Miles,Europe,40,No
+14865,S,M," $40,000 ",2,Partial College,Clerical,Yes,2,1-2 Miles,Europe,36,No
+12663,M,F," $90,000 ",5,Partial High School,Skilled Manual,Yes,2,10+ Miles,Europe,59,No
+24898,S,F," $80,000 ",0,Bachelors,Professional,Yes,3,10+ Miles,Pacific,32,No
+19508,M,M," $10,000 ",0,Partial High School,Manual,No,2,0-1 Miles,Europe,30,No
+11489,S,F," $20,000 ",0,Partial High School,Manual,No,2,1-2 Miles,Europe,35,Yes
+18160,M,M," $130,000 ",3,High School,Professional,Yes,4,5-10 Miles,Europe,51,Yes
+25241,M,M," $90,000 ",2,Bachelors,Professional,Yes,1,5-10 Miles,Pacific,47,No
+24369,M,M," $80,000 ",5,Graduate Degree,Management,No,2,0-1 Miles,Pacific,39,No
+27165,S,M," $20,000 ",0,Partial High School,Manual,No,2,0-1 Miles,Europe,34,No
+29424,M,M," $10,000 ",0,Partial High School,Manual,Yes,2,0-1 Miles,Europe,32,No
+15926,S,F," $120,000 ",3,High School,Professional,Yes,4,5-10 Miles,Europe,50,Yes
+14554,M,M," $20,000 ",1,Bachelors,Clerical,Yes,0,0-1 Miles,Europe,66,No
+16468,S,M," $30,000 ",0,Partial College,Clerical,Yes,1,2-5 Miles,Europe,30,No
+19174,S,F," $30,000 ",0,High School,Manual,No,1,2-5 Miles,Europe,32,Yes
+19183,S,M," $10,000 ",0,Partial High School,Manual,Yes,2,1-2 Miles,Europe,35,No
+13683,S,F," $30,000 ",0,High School,Manual,No,1,2-5 Miles,Europe,32,No
+17848,S,M," $30,000 ",0,Partial College,Clerical,No,1,2-5 Miles,Europe,31,Yes
+17894,M,F," $20,000 ",1,Bachelors,Clerical,Yes,0,0-1 Miles,Europe,50,Yes
+25651,M,M," $40,000 ",1,Bachelors,Skilled Manual,No,0,0-1 Miles,Europe,43,Yes
+22936,S,F," $60,000 ",1,Partial College,Skilled Manual,No,1,0-1 Miles,Pacific,45,Yes
+23915,M,M," $20,000 ",2,High School,Manual,Yes,2,0-1 Miles,Europe,42,No
+24121,S,F," $30,000 ",0,Partial College,Clerical,No,1,0-1 Miles,Europe,29,Yes
+27878,S,M," $20,000 ",0,Partial College,Manual,No,0,0-1 Miles,Pacific,28,Yes
+13572,S,M," $10,000 ",3,High School,Manual,Yes,0,0-1 Miles,Europe,37,Yes
+27941,M,F," $80,000 ",4,Partial College,Professional,Yes,2,2-5 Miles,Europe,53,No
+26354,S,M," $40,000 ",0,Graduate Degree,Clerical,No,0,0-1 Miles,Europe,38,Yes
+14785,S,M," $30,000 ",1,Bachelors,Clerical,No,1,1-2 Miles,Europe,39,No
+17238,S,M," $80,000 ",0,Bachelors,Professional,Yes,3,10+ Miles,Pacific,32,No
+23608,M,F," $150,000 ",3,High School,Professional,Yes,3,0-1 Miles,Europe,51,Yes
+22538,S,F," $10,000 ",0,Partial High School,Manual,Yes,2,1-2 Miles,Europe,33,No
+12332,M,M," $90,000 ",4,High School,Management,Yes,3,5-10 Miles,Europe,58,Yes
+17230,M,M," $80,000 ",0,Bachelors,Professional,Yes,3,10+ Miles,Pacific,30,No
+13082,S,M," $130,000 ",0,Graduate Degree,Management,Yes,0,2-5 Miles,Pacific,48,Yes
+22518,S,F," $30,000 ",3,Partial College,Clerical,No,2,0-1 Miles,Europe,27,Yes
+13687,M,M," $40,000 ",1,Bachelors,Skilled Manual,Yes,1,0-1 Miles,Europe,33,Yes
+23571,M,F," $40,000 ",2,Bachelors,Management,Yes,2,0-1 Miles,Pacific,66,Yes
+19305,S,F," $10,000 ",2,High School,Manual,Yes,1,0-1 Miles,Europe,38,Yes
+22636,S,F," $40,000 ",0,Bachelors,Clerical,No,0,0-1 Miles,Europe,38,Yes
+17310,M,M," $60,000 ",1,Partial College,Skilled Manual,Yes,1,0-1 Miles,Pacific,45,Yes
+12133,M,F," $130,000 ",3,Partial College,Professional,Yes,3,5-10 Miles,Europe,50,Yes
+25918,S,F," $30,000 ",2,Partial College,Clerical,No,2,5-10 Miles,Pacific,60,Yes
+25752,S,F," $20,000 ",2,Partial College,Manual,No,1,0-1 Miles,Europe,53,Yes
+17324,M,F," $100,000 ",4,Bachelors,Professional,Yes,1,10+ Miles,Pacific,46,No
+22918,S,M," $80,000 ",5,Graduate Degree,Management,Yes,3,0-1 Miles,Pacific,50,No
+12510,M,M," $40,000 ",1,Bachelors,Skilled Manual,Yes,1,0-1 Miles,Europe,43,Yes
+25512,S,M," $20,000 ",0,High School,Manual,No,1,2-5 Miles,Europe,30,No
+16179,S,F," $80,000 ",5,Bachelors,Professional,Yes,4,1-2 Miles,Pacific,38,No
+15628,M,F," $40,000 ",1,Bachelors,Skilled Manual,Yes,1,0-1 Miles,Europe,89,No
+20977,M,M," $20,000 ",1,Bachelors,Clerical,Yes,0,0-1 Miles,Europe,64,Yes
+18140,M,M," $130,000 ",3,Partial College,Professional,No,3,5-10 Miles,Europe,51,Yes
+20417,M,M," $30,000 ",3,Partial College,Clerical,No,2,5-10 Miles,Pacific,56,No
+18267,M,M," $60,000 ",3,Bachelors,Professional,Yes,2,5-10 Miles,Pacific,43,No
+13620,S,M," $70,000 ",0,Bachelors,Professional,No,3,10+ Miles,Pacific,30,Yes
+22974,M,F," $30,000 ",2,Partial College,Clerical,Yes,2,5-10 Miles,Pacific,69,No
+13586,M,M," $80,000 ",4,Partial College,Professional,Yes,2,10+ Miles,Europe,53,No
+17978,M,M," $40,000 ",0,Graduate Degree,Clerical,Yes,0,0-1 Miles,Europe,37,Yes
+12581,S,F," $10,000 ",0,Partial College,Manual,No,1,0-1 Miles,Pacific,28,Yes
+18018,S,M," $30,000 ",3,Partial College,Clerical,Yes,0,0-1 Miles,Europe,43,No
+28957,S,F," $120,000 ",0,Partial High School,Professional,Yes,4,10+ Miles,Pacific,34,Yes
+13690,S,F," $20,000 ",0,Partial High School,Manual,No,2,1-2 Miles,Europe,34,Yes
+12568,M,F," $30,000 ",1,Bachelors,Clerical,Yes,0,0-1 Miles,Europe,64,No
+13122,M,F," $80,000 ",0,Bachelors,Professional,Yes,1,1-2 Miles,Pacific,41,Yes
+21184,S,M," $70,000 ",0,Bachelors,Professional,No,1,5-10 Miles,Pacific,38,No
+26150,S,F," $70,000 ",0,Bachelors,Professional,No,1,0-1 Miles,Pacific,41,Yes
+24151,S,M," $20,000 ",1,Bachelors,Clerical,No,0,0-1 Miles,Europe,51,No
+23962,M,F," $10,000 ",0,Partial High School,Manual,Yes,2,1-2 Miles,Europe,32,No
+17793,M,F," $40,000 ",0,Bachelors,Clerical,Yes,0,0-1 Miles,Europe,38,Yes
+14926,M,M," $30,000 ",1,Bachelors,Clerical,Yes,0,0-1 Miles,Europe,38,Yes
+16163,S,M," $60,000 ",2,Bachelors,Professional,Yes,1,2-5 Miles,Pacific,38,Yes
+21365,M,F," $10,000 ",2,Partial High School,Clerical,Yes,2,5-10 Miles,Pacific,58,No
+27771,S,M," $30,000 ",1,Bachelors,Clerical,Yes,1,1-2 Miles,Europe,39,Yes
+26167,S,F," $40,000 ",2,Bachelors,Management,No,1,5-10 Miles,Pacific,53,Yes
+25792,S,F," $110,000 ",3,Bachelors,Management,Yes,4,10+ Miles,Europe,53,No
+11555,M,F," $40,000 ",1,Bachelors,Clerical,Yes,0,0-1 Miles,Europe,80,No
+22381,M,M," $10,000 ",1,Graduate Degree,Manual,Yes,0,0-1 Miles,Europe,44,No
+17882,M,M," $20,000 ",1,Graduate Degree,Clerical,Yes,0,0-1 Miles,Europe,44,No
+22174,M,M," $30,000 ",3,High School,Skilled Manual,Yes,2,5-10 Miles,Pacific,54,Yes
+22439,M,F," $30,000 ",0,Bachelors,Clerical,Yes,0,0-1 Miles,Europe,37,Yes
+18012,M,F," $40,000 ",1,Bachelors,Skilled Manual,Yes,0,0-1 Miles,Europe,41,No
+27582,S,F," $90,000 ",2,Bachelors,Professional,No,0,0-1 Miles,Pacific,36,Yes
+12744,S,F," $40,000 ",2,Partial College,Clerical,Yes,0,0-1 Miles,Europe,33,No
+22821,M,F," $130,000 ",3,Partial College,Professional,Yes,4,0-1 Miles,Europe,52,No
+20171,M,F," $20,000 ",2,Partial College,Manual,Yes,1,0-1 Miles,Europe,46,Yes
+11116,M,M," $70,000 ",5,Partial College,Skilled Manual,Yes,2,5-10 Miles,Pacific,43,No
+20053,S,M," $40,000 ",2,Partial College,Clerical,Yes,0,0-1 Miles,Europe,34,No
+25266,S,F," $30,000 ",2,Partial College,Clerical,No,2,5-10 Miles,Pacific,67,No
+17960,M,F," $40,000 ",0,Graduate Degree,Clerical,Yes,0,0-1 Miles,Europe,35,Yes
+13961,M,F," $80,000 ",5,Graduate Degree,Management,Yes,3,0-1 Miles,Pacific,40,No
+11897,S,M," $60,000 ",2,Bachelors,Professional,No,1,0-1 Miles,Pacific,37,Yes
+11139,S,F," $30,000 ",2,Partial College,Clerical,No,2,5-10 Miles,Pacific,67,No
+11576,M,M," $30,000 ",1,Bachelors,Skilled Manual,Yes,2,0-1 Miles,Europe,41,Yes
+19255,S,M," $10,000 ",2,Partial College,Manual,Yes,1,0-1 Miles,Europe,51,Yes
+18153,M,F," $100,000 ",2,Bachelors,Management,Yes,4,10+ Miles,Europe,59,No
+14547,M,M," $10,000 ",2,Partial College,Manual,Yes,0,1-2 Miles,Europe,51,No
+24901,S,M," $110,000 ",0,Partial College,Management,No,3,10+ Miles,Pacific,32,Yes
+27169,S,M," $30,000 ",0,High School,Manual,Yes,1,2-5 Miles,Europe,34,Yes
+14805,S,F," $10,000 ",3,Partial High School,Manual,Yes,2,0-1 Miles,Europe,43,No
+15822,M,M," $40,000 ",2,Bachelors,Management,Yes,2,0-1 Miles,Pacific,67,No
+19389,S,M," $30,000 ",0,Partial College,Clerical,No,1,2-5 Miles,Europe,28,No
+17048,S,F," $90,000 ",1,Graduate Degree,Management,Yes,0,0-1 Miles,Pacific,36,Yes
+22204,M,M," $110,000 ",4,Bachelors,Management,Yes,3,2-5 Miles,Pacific,48,No
+12718,S,F," $30,000 ",0,Partial College,Clerical,Yes,1,2-5 Miles,Europe,31,No
+15019,S,F," $30,000 ",3,High School,Skilled Manual,Yes,2,5-10 Miles,Pacific,55,No
+28488,S,M," $20,000 ",0,Partial College,Manual,Yes,0,0-1 Miles,Pacific,28,Yes
+21891,M,F," $110,000 ",0,High School,Management,Yes,3,10+ Miles,Pacific,34,Yes
+27814,S,F," $30,000 ",3,Partial College,Clerical,No,1,0-1 Miles,Europe,26,No
+22175,M,F," $30,000 ",3,High School,Skilled Manual,Yes,2,5-10 Miles,Pacific,53,Yes
+29447,S,F," $10,000 ",2,Bachelors,Clerical,No,1,2-5 Miles,Europe,68,No
+19784,M,F," $80,000 ",2,High School,Skilled Manual,Yes,2,5-10 Miles,Pacific,50,Yes
+27824,S,F," $30,000 ",3,Partial College,Clerical,Yes,2,0-1 Miles,Europe,28,Yes
+24093,S,F," $80,000 ",0,Graduate Degree,Skilled Manual,No,0,0-1 Miles,Europe,40,Yes
+19618,M,M," $70,000 ",5,Partial College,Skilled Manual,Yes,2,0-1 Miles,Pacific,44,No
+21561,S,M," $90,000 ",0,Bachelors,Professional,No,3,10+ Miles,Pacific,34,Yes
+11061,M,M," $70,000 ",2,Partial College,Skilled Manual,Yes,2,5-10 Miles,Pacific,52,Yes
+26651,S,M," $80,000 ",4,Graduate Degree,Management,Yes,0,0-1 Miles,Pacific,36,Yes
+21108,M,F," $40,000 ",1,Bachelors,Skilled Manual,Yes,1,0-1 Miles,Europe,43,Yes
+12731,S,M," $30,000 ",0,High School,Manual,No,1,1-2 Miles,Europe,32,No
+25307,M,F," $40,000 ",1,Bachelors,Skilled Manual,Yes,1,1-2 Miles,Europe,32,Yes
+14278,M,F," $130,000 ",0,Graduate Degree,Management,Yes,1,10+ Miles,Pacific,48,No
+20711,M,F," $40,000 ",1,Bachelors,Skilled Manual,Yes,0,1-2 Miles,Europe,32,Yes
+11383,M,F," $30,000 ",3,Graduate Degree,Clerical,Yes,0,0-1 Miles,Europe,46,No
+12497,M,F," $40,000 ",1,Bachelors,Skilled Manual,Yes,0,0-1 Miles,Europe,42,No
+16559,S,F," $10,000 ",2,High School,Manual,Yes,0,0-1 Miles,Europe,36,Yes
+11585,M,F," $40,000 ",1,Bachelors,Skilled Manual,Yes,0,0-1 Miles,Europe,41,No
+20277,M,F," $30,000 ",2,Partial College,Clerical,No,2,0-1 Miles,Pacific,69,No
+26765,S,F," $70,000 ",5,Partial College,Skilled Manual,Yes,2,5-10 Miles,Pacific,45,No
+12389,S,M," $30,000 ",0,High School,Manual,No,1,2-5 Miles,Europe,34,No
+13585,M,F," $80,000 ",4,Partial College,Professional,No,1,2-5 Miles,Europe,53,Yes
+26385,S,M," $120,000 ",3,High School,Professional,No,4,5-10 Miles,Europe,50,No
+12236,M,F," $20,000 ",1,Partial College,Manual,Yes,0,0-1 Miles,Europe,65,No
+21560,M,M," $120,000 ",0,Partial High School,Professional,Yes,4,10+ Miles,Pacific,32,Yes
+21554,S,F," $80,000 ",0,Bachelors,Professional,No,3,10+ Miles,Pacific,33,No
+13662,S,M," $20,000 ",0,Partial High School,Manual,Yes,2,1-2 Miles,Europe,31,Yes
+13089,M,F," $120,000 ",1,Bachelors,Management,Yes,2,0-1 Miles,Pacific,46,Yes
+14791,M,F," $40,000 ",0,Bachelors,Clerical,Yes,0,0-1 Miles,Europe,39,Yes
+19331,S,M," $20,000 ",2,High School,Manual,Yes,1,0-1 Miles,Europe,40,No
+17754,S,F," $30,000 ",3,Bachelors,Clerical,Yes,0,0-1 Miles,Europe,46,Yes
+11149,M,M," $40,000 ",2,Bachelors,Management,Yes,2,0-1 Miles,Pacific,65,No
+16549,S,F," $30,000 ",3,Bachelors,Clerical,Yes,0,0-1 Miles,Europe,47,Yes
+24305,S,M," $100,000 ",1,Bachelors,Management,No,3,0-1 Miles,Pacific,46,Yes
+18253,M,F," $80,000 ",5,Graduate Degree,Management,Yes,3,0-1 Miles,Pacific,40,No
+20147,M,F," $30,000 ",1,Bachelors,Clerical,Yes,0,0-1 Miles,Europe,65,No
+15612,S,M," $30,000 ",0,High School,Manual,No,1,1-2 Miles,Europe,28,No
+28323,S,M," $70,000 ",0,Bachelors,Professional,No,2,5-10 Miles,Pacific,43,Yes
+22634,S,F," $40,000 ",0,Graduate Degree,Clerical,Yes,0,0-1 Miles,Europe,38,Yes
+15665,M,F," $30,000 ",0,Bachelors,Clerical,Yes,0,0-1 Miles,Europe,47,Yes
+27585,M,F," $90,000 ",2,Bachelors,Professional,No,0,0-1 Miles,Pacific,36,Yes
+19748,M,M," $20,000 ",4,High School,Skilled Manual,No,2,1-2 Miles,Pacific,60,No
+21974,S,F," $70,000 ",0,Bachelors,Professional,Yes,1,5-10 Miles,Pacific,42,Yes
+14032,M,M," $70,000 ",2,High School,Skilled Manual,No,2,1-2 Miles,Pacific,50,Yes
+22610,M,M," $30,000 ",0,Bachelors,Clerical,Yes,0,0-1 Miles,Europe,35,Yes
+26984,M,M," $40,000 ",1,Bachelors,Skilled Manual,Yes,1,0-1 Miles,Europe,32,Yes
+18294,M,F," $90,000 ",1,Bachelors,Professional,Yes,1,5-10 Miles,Pacific,46,No
+28564,S,F," $40,000 ",2,Partial College,Clerical,Yes,0,1-2 Miles,Europe,33,Yes
+28521,S,M," $40,000 ",0,Graduate Degree,Clerical,No,0,0-1 Miles,Europe,36,Yes
+15450,M,M," $10,000 ",1,Graduate Degree,Clerical,Yes,0,0-1 Miles,Europe,70,No
+25681,S,F," $30,000 ",0,Partial College,Clerical,No,1,2-5 Miles,Europe,31,Yes
+19491,S,M," $30,000 ",2,Partial College,Clerical,Yes,2,0-1 Miles,Europe,42,No
+26415,M,F," $90,000 ",4,Partial High School,Skilled Manual,Yes,4,10+ Miles,Europe,58,No
+12821,M,M," $40,000 ",0,Bachelors,Clerical,Yes,0,0-1 Miles,Europe,39,No
+15629,S,F," $10,000 ",0,Partial High School,Manual,Yes,2,1-2 Miles,Europe,34,No
+27835,M,M," $20,000 ",0,Partial High School,Manual,Yes,2,0-1 Miles,Europe,32,No
+11738,M,M," $60,000 ",4,Bachelors,Professional,Yes,0,2-5 Miles,North America,46,No
+25065,M,M," $70,000 ",2,Partial High School,Skilled Manual,Yes,2,5-10 Miles,North America,48,No
+26238,S,F," $40,000 ",3,Partial College,Clerical,Yes,1,1-2 Miles,North America,31,Yes
+23707,S,M," $70,000 ",5,Bachelors,Management,Yes,3,10+ Miles,North America,60,Yes
+27650,M,M," $70,000 ",4,High School,Professional,Yes,0,5-10 Miles,North America,51,No
+24981,M,M," $60,000 ",2,Partial College,Professional,Yes,2,10+ Miles,North America,56,No
+20678,S,F," $60,000 ",3,Bachelors,Skilled Manual,Yes,1,2-5 Miles,North America,40,Yes
+15302,S,F," $70,000 ",1,Graduate Degree,Professional,Yes,0,2-5 Miles,North America,34,Yes
+26012,M,M," $80,000 ",1,Partial College,Skilled Manual,Yes,1,2-5 Miles,North America,48,Yes
+26575,S,F," $40,000 ",0,High School,Skilled Manual,No,2,1-2 Miles,North America,31,Yes
+15559,M,M," $60,000 ",5,Bachelors,Professional,Yes,1,2-5 Miles,North America,47,No
+19235,M,F," $50,000 ",0,Graduate Degree,Skilled Manual,Yes,0,0-1 Miles,North America,34,No
+15275,M,M," $40,000 ",0,Partial College,Skilled Manual,Yes,1,5-10 Miles,North America,29,No
+20339,M,F," $130,000 ",1,Bachelors,Management,Yes,4,2-5 Miles,North America,44,Yes
+25405,M,M," $70,000 ",2,Bachelors,Skilled Manual,Yes,1,2-5 Miles,North America,38,Yes
+15940,M,M," $100,000 ",4,Partial College,Professional,Yes,4,0-1 Miles,North America,40,No
+25074,M,F," $70,000 ",4,Bachelors,Professional,Yes,2,2-5 Miles,North America,42,Yes
+24738,M,F," $40,000 ",1,Partial College,Clerical,Yes,1,1-2 Miles,North America,51,Yes
+16337,M,M," $60,000 ",0,Partial College,Skilled Manual,No,2,1-2 Miles,North America,29,No
+24357,M,M," $80,000 ",3,Bachelors,Professional,Yes,1,2-5 Miles,North America,48,Yes
+18613,S,M," $70,000 ",0,Bachelors,Professional,No,1,2-5 Miles,North America,37,Yes
+12207,S,M," $80,000 ",4,Bachelors,Management,Yes,0,5-10 Miles,North America,66,Yes
+18052,M,F," $60,000 ",1,Partial College,Skilled Manual,Yes,1,0-1 Miles,North America,45,Yes
+13353,S,F," $60,000 ",4,Graduate Degree,Management,Yes,2,10+ Miles,North America,61,Yes
+19399,S,M," $40,000 ",0,Bachelors,Professional,No,1,2-5 Miles,North America,45,No
+16154,M,F," $70,000 ",5,Bachelors,Professional,Yes,2,2-5 Miles,North America,47,No
+22219,M,F," $60,000 ",2,High School,Professional,Yes,2,5-10 Miles,North America,49,No
+17269,S,M," $60,000 ",3,Bachelors,Professional,No,0,0-1 Miles,North America,47,Yes
+23586,M,F," $80,000 ",0,Bachelors,Management,Yes,1,1-2 Miles,North America,34,Yes
+15740,M,M," $80,000 ",5,Bachelors,Management,Yes,2,1-2 Miles,North America,64,No
+27638,S,M," $100,000 ",1,Partial College,Professional,No,3,1-2 Miles,North America,44,No
+18976,S,M," $40,000 ",4,High School,Professional,Yes,2,10+ Miles,North America,62,Yes
+19413,S,M," $60,000 ",3,Bachelors,Professional,No,1,0-1 Miles,North America,47,Yes
+13283,M,M," $80,000 ",3,Partial College,Professional,No,2,0-1 Miles,North America,49,Yes
+17471,S,F," $80,000 ",4,Graduate Degree,Management,Yes,2,5-10 Miles,North America,67,No
+16791,S,M," $60,000 ",5,Bachelors,Management,Yes,3,10+ Miles,North America,59,Yes
+15382,M,F," $110,000 ",1,Bachelors,Management,Yes,2,1-2 Miles,North America,44,No
+11641,M,M," $50,000 ",1,Bachelors,Skilled Manual,Yes,0,0-1 Miles,North America,36,No
+11935,S,F," $30,000 ",0,Partial College,Skilled Manual,Yes,1,5-10 Miles,North America,28,No
+13233,M,M," $60,000 ",2,Partial College,Professional,Yes,1,10+ Miles,North America,57,Yes
+25909,M,M," $60,000 ",0,Partial College,Skilled Manual,Yes,1,5-10 Miles,North America,27,Yes
+14092,S,M," $30,000 ",0,Partial High School,Clerical,Yes,2,5-10 Miles,North America,28,No
+29143,S,F," $60,000 ",1,Bachelors,Professional,No,1,0-1 Miles,North America,44,Yes
+24941,M,M," $60,000 ",3,Bachelors,Management,Yes,2,10+ Miles,North America,66,No
+24637,M,M," $40,000 ",4,High School,Professional,Yes,2,10+ Miles,North America,64,No
+23893,M,M," $50,000 ",3,Bachelors,Skilled Manual,Yes,3,10+ Miles,North America,41,No
+13907,S,F," $80,000 ",3,Bachelors,Skilled Manual,Yes,1,0-1 Miles,North America,41,Yes
+14900,M,F," $40,000 ",1,Partial College,Clerical,Yes,1,1-2 Miles,North America,49,Yes
+11262,M,F," $80,000 ",4,Bachelors,Management,Yes,0,0-1 Miles,North America,42,No
+22294,S,F," $70,000 ",0,Bachelors,Professional,No,1,2-5 Miles,North America,37,Yes
+12195,S,F," $70,000 ",3,Graduate Degree,Management,Yes,2,1-2 Miles,North America,52,No
+25375,M,M," $50,000 ",1,Graduate Degree,Skilled Manual,Yes,0,1-2 Miles,North America,34,No
+11143,M,M," $40,000 ",0,High School,Skilled Manual,Yes,2,5-10 Miles,North America,29,No
+25898,M,F," $70,000 ",2,High School,Professional,Yes,2,2-5 Miles,North America,53,No
+24397,S,M," $120,000 ",2,Bachelors,Management,No,4,1-2 Miles,North America,40,No
+19758,S,M," $60,000 ",0,Partial College,Skilled Manual,No,2,1-2 Miles,North America,29,No
+15529,M,M," $60,000 ",4,Bachelors,Professional,Yes,2,2-5 Miles,North America,43,Yes
+19884,M,M," $60,000 ",2,High School,Professional,Yes,2,2-5 Miles,North America,55,Yes
+18674,S,F," $80,000 ",4,Graduate Degree,Skilled Manual,No,0,0-1 Miles,North America,48,No
+13453,M,F," $130,000 ",3,Bachelors,Management,Yes,3,0-1 Miles,North America,45,Yes
+14063,S,F," $70,000 ",0,Bachelors,Professional,No,1,0-1 Miles,Pacific,42,Yes
+27393,M,F," $50,000 ",4,Bachelors,Management,Yes,2,10+ Miles,North America,63,No
+14417,S,M," $60,000 ",3,High School,Professional,Yes,2,10+ Miles,North America,54,Yes
+17533,M,M," $40,000 ",3,Partial College,Professional,No,2,5-10 Miles,North America,73,Yes
+18580,M,F," $60,000 ",2,Graduate Degree,Professional,Yes,0,2-5 Miles,North America,40,Yes
+17025,S,M," $50,000 ",0,Partial College,Skilled Manual,No,1,2-5 Miles,North America,39,Yes
+25293,M,M," $80,000 ",4,Bachelors,Management,Yes,0,1-2 Miles,North America,42,No
+24725,M,F," $40,000 ",3,Partial College,Clerical,Yes,0,1-2 Miles,North America,31,No
+23200,M,F," $50,000 ",3,Bachelors,Skilled Manual,Yes,2,0-1 Miles,North America,41,No
+15895,S,F," $60,000 ",2,Bachelors,Management,Yes,0,10+ Miles,North America,58,No
+18577,M,F," $60,000 ",0,Graduate Degree,Professional,Yes,0,0-1 Miles,North America,40,No
+27218,M,F," $20,000 ",2,Partial High School,Clerical,No,0,0-1 Miles,North America,48,No
+18560,M,F," $70,000 ",2,Graduate Degree,Professional,Yes,0,2-5 Miles,North America,34,Yes
+25006,S,F," $30,000 ",0,Partial College,Skilled Manual,Yes,1,5-10 Miles,North America,28,No
+17369,S,M," $30,000 ",0,Partial College,Skilled Manual,Yes,1,5-10 Miles,North America,27,No
+14495,M,M," $40,000 ",3,Partial College,Professional,No,2,5-10 Miles,North America,54,Yes
+18847,M,F," $60,000 ",2,Graduate Degree,Management,Yes,2,5-10 Miles,North America,70,No
+14754,M,M," $40,000 ",1,Partial College,Clerical,Yes,1,1-2 Miles,North America,48,Yes
+23378,M,M," $70,000 ",1,Partial College,Skilled Manual,Yes,1,2-5 Miles,North America,44,Yes
+26452,S,M," $50,000 ",3,Graduate Degree,Management,Yes,2,10+ Miles,North America,69,No
+20370,M,M," $70,000 ",3,Partial High School,Skilled Manual,Yes,2,5-10 Miles,North America,52,No
+20528,M,M," $40,000 ",2,Partial High School,Skilled Manual,Yes,2,2-5 Miles,North America,55,No
+23549,S,M," $30,000 ",0,High School,Skilled Manual,Yes,2,5-10 Miles,North America,30,No
+21751,M,M," $60,000 ",3,Graduate Degree,Management,Yes,2,1-2 Miles,North America,63,No
+21266,S,F," $80,000 ",0,Bachelors,Management,Yes,1,1-2 Miles,North America,34,Yes
+13388,S,M," $60,000 ",2,Partial College,Professional,Yes,1,10+ Miles,North America,56,No
+18752,S,F," $40,000 ",0,High School,Skilled Manual,Yes,1,5-10 Miles,North America,31,No
+16917,M,M," $120,000 ",1,Bachelors,Management,Yes,4,0-1 Miles,North America,38,No
+15313,M,M," $60,000 ",4,Bachelors,Management,Yes,2,2-5 Miles,North America,59,No
+25329,S,F," $40,000 ",3,Partial College,Clerical,No,2,0-1 Miles,North America,32,No
+20380,M,F," $60,000 ",3,Graduate Degree,Management,Yes,2,10+ Miles,North America,69,No
+23089,M,M," $40,000 ",0,Partial College,Skilled Manual,Yes,1,5-10 Miles,North America,28,No
+13749,M,M," $80,000 ",4,Graduate Degree,Skilled Manual,Yes,0,1-2 Miles,North America,47,No
+24943,M,M," $60,000 ",3,Bachelors,Management,Yes,2,10+ Miles,North America,66,No
+28667,S,M," $70,000 ",2,Bachelors,Skilled Manual,No,1,0-1 Miles,North America,37,Yes
+15194,S,M," $120,000 ",2,Bachelors,Management,No,3,0-1 Miles,North America,39,Yes
+17436,M,M," $60,000 ",2,High School,Professional,No,2,1-2 Miles,North America,51,No
+18935,M,F," $130,000 ",0,Graduate Degree,Management,Yes,3,1-2 Miles,North America,40,No
+16871,M,F," $90,000 ",2,High School,Professional,Yes,1,10+ Miles,North America,51,Yes
+12100,S,M," $60,000 ",2,Bachelors,Management,Yes,0,10+ Miles,North America,57,No
+23158,M,F," $60,000 ",1,Graduate Degree,Professional,No,0,0-1 Miles,North America,35,Yes
+18545,M,M," $40,000 ",4,High School,Professional,No,2,10+ Miles,North America,61,Yes
+18391,S,F," $80,000 ",5,Partial College,Professional,Yes,2,5-10 Miles,North America,44,No
+19812,S,F," $70,000 ",2,Partial College,Professional,Yes,0,5-10 Miles,North America,49,Yes
+27660,M,M," $80,000 ",4,Graduate Degree,Management,Yes,2,5-10 Miles,North America,70,No
+18058,S,F," $20,000 ",3,High School,Skilled Manual,Yes,2,2-5 Miles,North America,78,No
+20343,M,F," $90,000 ",4,Partial College,Professional,Yes,1,1-2 Miles,North America,45,No
+28997,S,M," $40,000 ",2,High School,Professional,No,1,2-5 Miles,North America,58,Yes
+24398,M,M," $130,000 ",1,Graduate Degree,Management,Yes,4,0-1 Miles,North America,41,No
+19002,M,F," $60,000 ",2,Partial College,Professional,Yes,1,2-5 Miles,North America,57,Yes
+28609,M,M," $30,000 ",2,High School,Skilled Manual,No,2,0-1 Miles,North America,49,No
+29231,S,M," $80,000 ",4,Partial College,Professional,No,2,0-1 Miles,North America,43,No
+18858,S,M," $60,000 ",2,Partial High School,Skilled Manual,Yes,2,5-10 Miles,North America,52,Yes
+20000,M,M," $60,000 ",1,Graduate Degree,Professional,Yes,0,0-1 Miles,North America,35,Yes
+25261,M,M," $40,000 ",0,High School,Skilled Manual,Yes,2,5-10 Miles,North America,27,No
+17458,S,M," $70,000 ",3,High School,Professional,Yes,0,5-10 Miles,North America,52,Yes
+11644,S,M," $40,000 ",2,Bachelors,Skilled Manual,Yes,0,2-5 Miles,North America,36,No
+16145,S,F," $70,000 ",5,Graduate Degree,Professional,Yes,3,10+ Miles,North America,46,Yes
+16890,M,M," $60,000 ",3,Partial High School,Skilled Manual,Yes,2,5-10 Miles,North America,52,Yes
+25983,M,M," $70,000 ",0,Bachelors,Professional,No,1,0-1 Miles,North America,43,No
+14633,M,M," $60,000 ",1,Partial College,Skilled Manual,Yes,1,2-5 Miles,North America,44,No
+22994,M,F," $80,000 ",0,Bachelors,Management,Yes,1,1-2 Miles,North America,34,Yes
+22983,S,F," $30,000 ",0,Partial High School,Clerical,Yes,2,5-10 Miles,North America,27,No
+25184,S,M," $110,000 ",1,Partial College,Professional,Yes,4,5-10 Miles,North America,45,Yes
+14469,M,F," $100,000 ",3,Partial College,Professional,Yes,4,1-2 Miles,North America,45,No
+11538,S,F," $60,000 ",4,Graduate Degree,Skilled Manual,No,0,0-1 Miles,North America,47,Yes
+16245,S,F," $80,000 ",4,Graduate Degree,Skilled Manual,Yes,0,1-2 Miles,North America,47,No
+17858,M,M," $40,000 ",4,High School,Skilled Manual,Yes,2,2-5 Miles,North America,44,Yes
+25347,S,F," $20,000 ",3,Partial High School,Clerical,No,2,0-1 Miles,North America,49,No
+15814,S,F," $40,000 ",0,High School,Skilled Manual,Yes,1,5-10 Miles,North America,30,No
+11259,M,F," $100,000 ",4,Partial College,Professional,Yes,4,2-5 Miles,North America,41,Yes
+11200,M,M," $70,000 ",4,Bachelors,Management,Yes,1,1-2 Miles,North America,58,No
+25101,M,M," $60,000 ",5,Bachelors,Professional,Yes,1,2-5 Miles,North America,47,No
+21801,M,F," $70,000 ",4,Partial College,Professional,Yes,1,1-2 Miles,North America,55,No
+25943,S,F," $70,000 ",0,Partial College,Skilled Manual,No,2,0-1 Miles,North America,27,Yes
+22127,M,M," $60,000 ",3,Graduate Degree,Management,Yes,2,1-2 Miles,North America,67,No
+20414,M,F," $60,000 ",0,Partial College,Skilled Manual,Yes,2,5-10 Miles,North America,29,No
+23672,M,F," $60,000 ",3,Graduate Degree,Management,Yes,2,1-2 Miles,North America,67,No
+29255,S,M," $80,000 ",3,Partial College,Professional,No,1,1-2 Miles,North America,51,Yes
+28815,M,F," $50,000 ",1,Graduate Degree,Skilled Manual,Yes,0,0-1 Miles,North America,35,No
+27753,M,M," $40,000 ",0,High School,Skilled Manual,No,2,1-2 Miles,North America,30,No
+27643,S,M," $70,000 ",5,Partial College,Professional,Yes,3,2-5 Miles,North America,44,No
+13754,S,F," $80,000 ",4,Graduate Degree,Skilled Manual,Yes,0,1-2 Miles,North America,48,No
+22088,M,F," $130,000 ",1,Bachelors,Management,Yes,2,0-1 Miles,North America,45,Yes
+27388,M,M," $60,000 ",3,Bachelors,Management,No,2,1-2 Miles,North America,66,No
+24745,S,F," $30,000 ",2,High School,Skilled Manual,No,2,0-1 Miles,North America,49,No
+29237,S,F," $120,000 ",4,Partial College,Professional,Yes,3,5-10 Miles,North America,43,Yes
+15272,S,M," $40,000 ",0,High School,Skilled Manual,No,2,1-2 Miles,North America,30,No
+18949,S,M," $70,000 ",0,Graduate Degree,Management,Yes,2,5-10 Miles,North America,74,Yes
+14507,M,M," $100,000 ",2,Graduate Degree,Management,Yes,3,1-2 Miles,North America,65,No
+25886,M,F," $60,000 ",2,Partial College,Professional,Yes,2,2-5 Miles,North America,56,Yes
+21441,M,M," $50,000 ",4,Bachelors,Management,Yes,2,10+ Miles,North America,64,No
+21741,M,F," $70,000 ",3,Partial College,Professional,Yes,2,5-10 Miles,North America,50,Yes
+14572,M,F," $70,000 ",3,Graduate Degree,Professional,Yes,0,2-5 Miles,North America,35,Yes
+23368,M,F," $60,000 ",5,Bachelors,Skilled Manual,Yes,3,10+ Miles,North America,41,No
+16217,S,F," $60,000 ",0,Graduate Degree,Skilled Manual,Yes,0,0-1 Miles,North America,39,No
+16247,S,F," $60,000 ",4,Graduate Degree,Skilled Manual,No,0,1-2 Miles,North America,47,No
+22010,S,M," $40,000 ",0,High School,Skilled Manual,Yes,2,5-10 Miles,North America,31,No
+25872,S,F," $70,000 ",2,Bachelors,Management,No,1,2-5 Miles,North America,58,Yes
+19164,S,F," $70,000 ",0,Bachelors,Professional,No,1,2-5 Miles,North America,38,Yes
+18435,S,F," $70,000 ",5,Graduate Degree,Management,Yes,2,10+ Miles,North America,67,Yes
+14284,S,M," $60,000 ",0,Partial College,Professional,No,2,1-2 Miles,North America,32,Yes
+11287,M,M," $70,000 ",5,Partial College,Professional,No,3,5-10 Miles,North America,45,No
+13066,S,M," $30,000 ",0,High School,Skilled Manual,No,2,1-2 Miles,North America,31,Yes
+29106,S,M," $40,000 ",0,High School,Skilled Manual,No,2,1-2 Miles,North America,31,Yes
+26236,M,F," $40,000 ",3,Partial College,Clerical,Yes,1,0-1 Miles,North America,31,No
+17531,M,M," $60,000 ",2,High School,Professional,No,2,5-10 Miles,North America,50,No
+12964,M,M," $70,000 ",1,Partial College,Skilled Manual,Yes,1,0-1 Miles,North America,44,No
+19133,S,M," $50,000 ",2,Bachelors,Skilled Manual,Yes,1,2-5 Miles,North America,38,Yes
+24643,S,F," $60,000 ",4,Bachelors,Management,Yes,2,10+ Miles,North America,63,No
+21599,M,F," $60,000 ",1,Graduate Degree,Professional,Yes,0,2-5 Miles,North America,36,Yes
+22976,S,M," $40,000 ",0,High School,Skilled Manual,No,2,0-1 Miles,North America,28,Yes
+27637,S,F," $100,000 ",1,Partial College,Professional,No,3,1-2 Miles,North America,44,No
+11890,M,F," $70,000 ",5,Graduate Degree,Professional,Yes,1,0-1 Miles,North America,47,No
+28580,M,F," $80,000 ",0,Graduate Degree,Skilled Manual,Yes,0,1-2 Miles,North America,40,Yes
+14443,M,M," $130,000 ",1,Graduate Degree,Management,Yes,4,0-1 Miles,North America,40,No
+17864,M,F," $60,000 ",1,Partial College,Skilled Manual,Yes,1,2-5 Miles,North America,46,Yes
+20505,M,F," $40,000 ",5,High School,Professional,No,2,10+ Miles,North America,61,No
+14592,M,F," $60,000 ",0,Graduate Degree,Professional,Yes,0,0-1 Miles,North America,40,No
+22227,M,F," $60,000 ",2,High School,Professional,Yes,2,5-10 Miles,North America,50,No
+21471,M,M," $70,000 ",2,Partial College,Professional,Yes,1,10+ Miles,North America,59,No
+22252,S,F," $60,000 ",1,Graduate Degree,Professional,Yes,0,2-5 Miles,North America,36,Yes
+21260,S,F," $40,000 ",0,High School,Skilled Manual,Yes,2,5-10 Miles,North America,30,No
+11817,S,F," $70,000 ",4,Graduate Degree,Professional,Yes,0,2-5 Miles,North America,35,Yes
+19223,M,F," $30,000 ",2,High School,Skilled Manual,Yes,2,1-2 Miles,North America,48,No
+18517,M,M," $100,000 ",3,Bachelors,Management,Yes,4,0-1 Miles,North America,41,No
+21717,M,M," $40,000 ",2,Partial College,Clerical,Yes,1,0-1 Miles,North America,47,No
+13760,M,M," $60,000 ",4,Graduate Degree,Skilled Manual,No,0,0-1 Miles,North America,47,No
+18145,M,M," $80,000 ",5,Bachelors,Management,No,2,2-5 Miles,Europe,62,No
+21770,M,M," $60,000 ",4,Bachelors,Management,Yes,2,10+ Miles,North America,60,No
+11165,M,F," $60,000 ",0,Partial College,Skilled Manual,No,1,1-2 Miles,North America,33,No
+16377,S,F," $80,000 ",4,Graduate Degree,Skilled Manual,No,0,0-1 Miles,North America,47,No
+26248,M,M," $20,000 ",3,Partial High School,Clerical,No,2,0-1 Miles,North America,52,No
+23461,M,F," $90,000 ",5,Partial College,Professional,Yes,3,2-5 Miles,North America,40,No
+29133,S,F," $60,000 ",4,Bachelors,Skilled Manual,No,2,0-1 Miles,North America,42,No
+27673,S,F," $60,000 ",3,Graduate Degree,Management,Yes,2,5-10 Miles,North America,53,Yes
+12774,M,F," $40,000 ",1,Partial College,Clerical,Yes,1,1-2 Miles,North America,51,Yes
+18910,S,M," $30,000 ",0,Partial College,Skilled Manual,Yes,2,5-10 Miles,North America,30,No
+11699,S,M," $60,000 ",0,Bachelors,Skilled Manual,No,2,0-1 Miles,North America,30,No
+16725,M,M," $30,000 ",0,High School,Skilled Manual,Yes,2,5-10 Miles,North America,26,No
+28269,S,F," $130,000 ",1,Bachelors,Management,No,1,2-5 Miles,North America,45,No
+23144,M,M," $50,000 ",1,Bachelors,Skilled Manual,Yes,0,0-1 Miles,North America,34,Yes
+23376,M,M," $70,000 ",1,Bachelors,Professional,Yes,1,2-5 Miles,North America,44,Yes
+25970,S,F," $60,000 ",4,Bachelors,Skilled Manual,No,2,0-1 Miles,North America,41,Yes
+28068,S,F," $80,000 ",3,Graduate Degree,Professional,No,0,0-1 Miles,North America,36,Yes
+18390,M,M," $80,000 ",5,Partial College,Professional,Yes,2,0-1 Miles,North America,44,No
+29112,S,M," $60,000 ",0,Partial College,Professional,No,2,1-2 Miles,North America,30,No
+14090,M,F," $30,000 ",0,Partial High School,Clerical,No,2,0-1 Miles,North America,28,No
+27040,M,M," $20,000 ",2,Partial High School,Clerical,Yes,2,1-2 Miles,North America,49,No
+23479,S,M," $90,000 ",0,Partial College,Professional,No,2,0-1 Miles,North America,43,Yes
+16795,M,F," $70,000 ",4,Bachelors,Management,Yes,1,1-2 Miles,North America,59,No
+22014,S,M," $30,000 ",0,High School,Skilled Manual,Yes,2,5-10 Miles,North America,26,No
+13314,M,M," $120,000 ",1,High School,Professional,Yes,4,5-10 Miles,North America,46,Yes
+11619,S,F," $50,000 ",0,Graduate Degree,Skilled Manual,Yes,0,1-2 Miles,North America,33,No
+29132,S,F," $40,000 ",0,Bachelors,Professional,Yes,1,2-5 Miles,North America,42,Yes
+11199,M,F," $70,000 ",4,Bachelors,Management,Yes,1,10+ Miles,North America,59,No
+20296,S,F," $60,000 ",0,Partial College,Skilled Manual,No,1,1-2 Miles,North America,33,Yes
+17546,M,F," $70,000 ",1,Partial College,Skilled Manual,Yes,1,0-1 Miles,North America,44,Yes
+18069,M,M," $70,000 ",5,Bachelors,Management,Yes,4,10+ Miles,North America,60,No
+23712,S,F," $70,000 ",2,Bachelors,Management,Yes,1,10+ Miles,North America,59,No
+23358,M,M," $60,000 ",0,High School,Professional,Yes,2,5-10 Miles,North America,32,Yes
+20518,M,F," $70,000 ",2,Partial College,Professional,Yes,1,10+ Miles,North America,58,No
+28026,M,F," $40,000 ",2,High School,Professional,No,2,2-5 Miles,North America,59,No
+11669,S,F," $70,000 ",2,Bachelors,Skilled Manual,Yes,1,2-5 Miles,North America,38,No
+16020,M,M," $40,000 ",0,High School,Skilled Manual,Yes,2,5-10 Miles,North America,28,Yes
+27090,M,F," $60,000 ",1,Graduate Degree,Professional,Yes,0,2-5 Miles,North America,37,Yes
+27198,S,F," $80,000 ",0,Graduate Degree,Skilled Manual,No,0,0-1 Miles,North America,40,No
+19661,S,M," $90,000 ",4,Bachelors,Management,Yes,1,1-2 Miles,North America,38,Yes
+26327,M,M," $70,000 ",4,Graduate Degree,Professional,Yes,0,2-5 Miles,North America,36,Yes
+26341,M,F," $70,000 ",5,Graduate Degree,Professional,Yes,2,0-1 Miles,North America,37,No
+24958,S,F," $40,000 ",5,High School,Professional,No,3,2-5 Miles,North America,60,Yes
+13287,S,M," $110,000 ",4,Bachelors,Management,Yes,4,5-10 Miles,North America,42,Yes
+14493,S,F," $70,000 ",3,Graduate Degree,Management,No,2,1-2 Miles,North America,53,No
+26678,S,F," $80,000 ",2,Partial High School,Skilled Manual,Yes,2,5-10 Miles,North America,49,No
+23275,M,M," $30,000 ",2,High School,Skilled Manual,Yes,2,1-2 Miles,North America,49,No
+11270,M,M," $130,000 ",2,Graduate Degree,Management,Yes,3,0-1 Miles,North America,42,Yes
+20084,M,M," $20,000 ",2,High School,Manual,No,2,0-1 Miles,North America,53,No
+16144,M,M," $70,000 ",1,Graduate Degree,Professional,Yes,1,0-1 Miles,North America,46,Yes
+27731,M,M," $40,000 ",0,High School,Skilled Manual,Yes,2,5-10 Miles,North America,27,No
+11886,M,F," $60,000 ",3,Bachelors,Professional,Yes,1,0-1 Miles,North America,48,Yes
+24324,S,F," $60,000 ",4,Bachelors,Skilled Manual,Yes,2,2-5 Miles,North America,41,Yes
+22220,M,M," $60,000 ",2,High School,Professional,No,2,1-2 Miles,North America,49,Yes
+26625,S,F," $60,000 ",0,Graduate Degree,Professional,Yes,1,2-5 Miles,North America,38,Yes
+23027,S,M," $130,000 ",1,Bachelors,Management,No,4,0-1 Miles,North America,44,No
+16867,S,F," $130,000 ",1,Bachelors,Management,No,3,0-1 Miles,North America,45,Yes
+14514,S,F," $30,000 ",0,Partial College,Skilled Manual,Yes,1,5-10 Miles,North America,26,No
+19634,M,M," $40,000 ",0,High School,Skilled Manual,Yes,1,5-10 Miles,North America,31,No
+18504,M,M," $70,000 ",2,Partial High School,Skilled Manual,No,2,1-2 Miles,North America,49,No
+28799,S,F," $40,000 ",2,Partial College,Clerical,No,1,1-2 Miles,North America,47,Yes
+11225,M,F," $60,000 ",2,Partial College,Professional,Yes,1,10+ Miles,North America,55,No
+17657,M,M," $40,000 ",4,Partial College,Clerical,No,0,0-1 Miles,North America,30,No
+14913,M,F," $40,000 ",1,Partial College,Clerical,Yes,1,1-2 Miles,North America,48,Yes
+14077,S,M," $30,000 ",0,High School,Skilled Manual,Yes,2,5-10 Miles,North America,30,No
+13296,M,M," $110,000 ",1,Bachelors,Management,Yes,3,5-10 Miles,North America,45,No
+20535,M,F," $70,000 ",4,Partial College,Professional,Yes,1,10+ Miles,North America,56,No
+12452,M,M," $60,000 ",4,Graduate Degree,Skilled Manual,Yes,0,1-2 Miles,North America,47,Yes
+28043,M,F," $60,000 ",2,Bachelors,Management,Yes,0,10+ Miles,North America,56,No
+12957,S,F," $70,000 ",1,Bachelors,Professional,No,1,0-1 Miles,North America,44,No
+15412,M,M," $130,000 ",2,Graduate Degree,Management,Yes,3,2-5 Miles,North America,69,No
+20514,M,F," $70,000 ",2,Partial College,Professional,Yes,1,2-5 Miles,North America,59,No
+20758,M,M," $30,000 ",2,High School,Skilled Manual,Yes,2,1-2 Miles,North America,50,No
+11801,M,M," $60,000 ",1,Graduate Degree,Professional,Yes,0,2-5 Miles,North America,36,No
+22211,M,M," $60,000 ",0,Partial College,Professional,Yes,2,5-10 Miles,North America,32,No
+28087,S,F," $40,000 ",0,Partial College,Skilled Manual,No,1,1-2 Miles,North America,27,No
+23668,M,F," $40,000 ",4,High School,Professional,Yes,2,5-10 Miles,North America,59,Yes
+27441,M,M," $60,000 ",3,High School,Professional,No,2,2-5 Miles,North America,53,No
+27261,M,M," $40,000 ",1,Bachelors,Skilled Manual,No,1,0-1 Miles,North America,36,Yes
+18649,S,M," $30,000 ",1,High School,Clerical,Yes,2,1-2 Miles,North America,51,Yes
+21714,S,F," $80,000 ",5,Graduate Degree,Skilled Manual,No,0,0-1 Miles,North America,47,No
+23217,S,F," $60,000 ",3,Graduate Degree,Professional,Yes,0,2-5 Miles,North America,43,Yes
+23797,S,M," $20,000 ",3,Partial High School,Clerical,No,2,0-1 Miles,North America,50,No
+13216,M,F," $60,000 ",5,Bachelors,Management,Yes,3,10+ Miles,North America,59,No
+20657,S,M," $50,000 ",2,Bachelors,Skilled Manual,Yes,0,2-5 Miles,North America,37,Yes
+12882,M,M," $50,000 ",1,Graduate Degree,Skilled Manual,Yes,0,0-1 Miles,North America,33,Yes
+25908,M,F," $60,000 ",0,Partial College,Skilled Manual,No,1,1-2 Miles,North America,27,No
+16753,S,F," $70,000 ",0,Partial College,Skilled Manual,Yes,2,5-10 Miles,North America,34,Yes
+14608,M,M," $50,000 ",4,Bachelors,Skilled Manual,Yes,3,10+ Miles,North America,42,No
+24979,M,F," $60,000 ",2,Partial College,Professional,Yes,2,2-5 Miles,North America,57,Yes
+13313,M,F," $120,000 ",1,High School,Professional,No,4,2-5 Miles,North America,45,No
+18952,M,F," $100,000 ",4,Bachelors,Management,Yes,4,0-1 Miles,North America,40,No
+17699,M,M," $60,000 ",1,Graduate Degree,Skilled Manual,No,0,0-1 Miles,North America,55,No
+14657,M,M," $80,000 ",1,Partial College,Skilled Manual,No,1,0-1 Miles,North America,47,Yes
+11540,S,M," $60,000 ",4,Graduate Degree,Skilled Manual,Yes,0,1-2 Miles,North America,47,Yes
+11783,M,F," $60,000 ",1,Graduate Degree,Skilled Manual,Yes,0,0-1 Miles,North America,34,No
+14602,M,F," $80,000 ",3,Graduate Degree,Professional,Yes,0,0-1 Miles,North America,36,Yes
+29030,M,M," $70,000 ",2,Partial High School,Skilled Manual,Yes,2,10+ Miles,North America,54,No
+26490,S,M," $70,000 ",2,Bachelors,Management,No,1,2-5 Miles,North America,59,Yes
+13151,S,M," $40,000 ",0,High School,Skilled Manual,Yes,2,5-10 Miles,North America,27,No
+17260,M,M," $90,000 ",5,Partial College,Professional,Yes,3,0-1 Miles,North America,41,No
+15372,M,M," $80,000 ",3,Partial College,Professional,No,2,2-5 Miles,North America,50,Yes
+18105,M,F," $60,000 ",2,Partial College,Professional,Yes,1,10+ Miles,North America,55,No
+19660,M,M," $80,000 ",4,Bachelors,Management,Yes,0,0-1 Miles,North America,43,No
+16112,S,M," $70,000 ",4,Bachelors,Professional,Yes,2,2-5 Miles,North America,43,Yes
+20698,M,M," $60,000 ",4,Bachelors,Skilled Manual,Yes,3,5-10 Miles,North America,42,No
+20076,S,F," $10,000 ",2,High School,Manual,Yes,2,1-2 Miles,North America,53,Yes
+24496,S,F," $40,000 ",0,High School,Skilled Manual,No,2,0-1 Miles,North America,28,Yes
+15468,M,F," $50,000 ",1,Bachelors,Skilled Manual,Yes,1,0-1 Miles,North America,35,No
+28031,S,F," $70,000 ",2,Bachelors,Management,No,1,2-5 Miles,North America,59,Yes
+26270,S,F," $20,000 ",2,Partial High School,Clerical,Yes,2,1-2 Miles,North America,49,No
+22221,M,M," $60,000 ",2,High School,Professional,No,2,1-2 Miles,North America,48,Yes
+28228,S,F," $80,000 ",2,Partial High School,Skilled Manual,No,2,1-2 Miles,North America,50,No
+18363,M,M," $40,000 ",0,High School,Skilled Manual,Yes,2,5-10 Miles,North America,28,Yes
+23256,S,M," $30,000 ",1,High School,Clerical,No,1,5-10 Miles,North America,52,No
+12768,M,M," $30,000 ",1,High School,Clerical,Yes,1,2-5 Miles,North America,52,Yes
+20361,M,M," $50,000 ",2,Graduate Degree,Management,Yes,2,5-10 Miles,North America,69,No
+21306,S,M," $60,000 ",2,High School,Professional,Yes,2,5-10 Miles,North America,51,No
+13382,M,M," $70,000 ",5,Partial College,Professional,Yes,2,1-2 Miles,North America,57,Yes
+20310,S,M," $60,000 ",0,Partial College,Skilled Manual,Yes,1,5-10 Miles,North America,27,Yes
+22971,S,F," $30,000 ",0,High School,Skilled Manual,No,2,0-1 Miles,North America,25,Yes
+15287,S,F," $50,000 ",1,Graduate Degree,Skilled Manual,Yes,0,1-2 Miles,North America,33,Yes
+15532,S,M," $60,000 ",4,Bachelors,Professional,Yes,2,2-5 Miles,North America,43,Yes
+11255,M,M," $70,000 ",4,Graduate Degree,Management,Yes,2,5-10 Miles,North America,73,No
+28090,M,M," $40,000 ",0,Partial College,Skilled Manual,Yes,1,5-10 Miles,North America,27,No
+15255,M,M," $40,000 ",0,High School,Skilled Manual,Yes,2,5-10 Miles,North America,28,Yes
+13154,M,M," $40,000 ",0,High School,Skilled Manual,No,2,0-1 Miles,North America,27,Yes
+26778,S,F," $40,000 ",0,High School,Skilled Manual,Yes,2,5-10 Miles,North America,31,No
+23248,M,F," $10,000 ",2,High School,Manual,Yes,2,1-2 Miles,North America,53,No
+21417,S,F," $60,000 ",0,Partial College,Professional,No,2,1-2 Miles,North America,32,Yes
+17668,S,M," $30,000 ",2,High School,Skilled Manual,Yes,2,1-2 Miles,North America,50,Yes
+27994,M,F," $40,000 ",4,High School,Professional,Yes,2,5-10 Miles,North America,69,No
+20376,S,F," $70,000 ",3,Graduate Degree,Management,Yes,2,5-10 Miles,North America,52,Yes
+25954,M,M," $60,000 ",0,Partial College,Skilled Manual,No,2,1-2 Miles,North America,31,No
+15749,S,F," $70,000 ",4,Bachelors,Management,Yes,2,10+ Miles,North America,61,No
+25899,M,F," $70,000 ",2,High School,Professional,Yes,2,10+ Miles,North America,53,No
+13351,S,F," $70,000 ",4,Bachelors,Management,Yes,2,1-2 Miles,North America,62,Yes
+23333,M,M," $40,000 ",0,Partial College,Skilled Manual,No,2,1-2 Miles,North America,30,No
+21660,M,F," $60,000 ",3,Graduate Degree,Professional,Yes,0,2-5 Miles,North America,43,Yes
+17012,M,F," $60,000 ",3,Graduate Degree,Professional,Yes,0,2-5 Miles,North America,42,Yes
+24514,M,M," $40,000 ",0,Partial College,Skilled Manual,Yes,1,5-10 Miles,North America,30,No
+27505,S,F," $40,000 ",0,High School,Skilled Manual,Yes,2,5-10 Miles,North America,30,No
+29243,S,M," $110,000 ",1,Bachelors,Management,Yes,1,5-10 Miles,North America,43,No
+26582,M,M," $60,000 ",0,Partial College,Skilled Manual,Yes,2,5-10 Miles,North America,33,Yes
+14271,M,M," $30,000 ",0,High School,Skilled Manual,Yes,2,5-10 Miles,North America,32,No
+23041,S,F," $70,000 ",4,High School,Professional,Yes,0,5-10 Miles,North America,50,Yes
+29048,S,M," $110,000 ",2,Bachelors,Management,No,3,0-1 Miles,North America,37,Yes
+24433,M,M," $70,000 ",3,High School,Professional,No,1,1-2 Miles,North America,52,Yes
+15501,M,M," $70,000 ",4,Graduate Degree,Professional,Yes,0,2-5 Miles,North America,36,Yes
+13911,S,F," $80,000 ",3,Bachelors,Skilled Manual,Yes,2,2-5 Miles,North America,41,Yes
+20421,S,F," $40,000 ",0,Partial High School,Clerical,Yes,2,5-10 Miles,North America,26,No
+16009,S,M," $170,000 ",1,Graduate Degree,Management,No,4,0-1 Miles,North America,66,No
+18411,M,M," $60,000 ",2,High School,Professional,No,2,5-10 Miles,North America,51,No
+19163,M,F," $70,000 ",4,Bachelors,Professional,Yes,2,0-1 Miles,North America,43,Yes
+18572,M,F," $60,000 ",0,Graduate Degree,Professional,Yes,0,0-1 Miles,North America,39,No
+27540,S,F," $70,000 ",0,Bachelors,Professional,No,1,0-1 Miles,North America,37,Yes
+19889,S,F," $70,000 ",2,Partial High School,Skilled Manual,No,2,2-5 Miles,North America,54,Yes
+12922,S,F," $60,000 ",3,Bachelors,Skilled Manual,Yes,0,2-5 Miles,North America,40,Yes
+18891,M,F," $40,000 ",0,Partial College,Skilled Manual,Yes,2,5-10 Miles,North America,28,No
+16773,M,M," $60,000 ",1,Graduate Degree,Skilled Manual,Yes,0,0-1 Miles,North America,33,No
+19143,S,F," $80,000 ",3,Bachelors,Skilled Manual,Yes,2,2-5 Miles,North America,41,Yes
+23882,S,female," $80,000 ",3,Graduate Degree,Professional,Yes,0,0-1 Miles,North America,37,Yes
+11233,M,M," $70,000 ",4,Partial College,Professional,Yes,2,10+ Miles,North America,53,No
+12056,M,M," $120,000 ",2,Graduate Degree,Management,Yes,3,5-10 Miles,North America,64,No
+15555,M,F," $60,000 ",1,Partial College,Skilled Manual,Yes,1,2-5 Miles,North America,45,Yes
+18423,S,M," $80,000 ",2,Partial High School,Skilled Manual,No,2,1-2 Miles,North America,52,No
+22743,M,F," $40,000 ",5,High School,Professional,Yes,2,10+ Miles,North America,60,No
+25343,S,F," $20,000 ",3,Partial High School,Clerical,Yes,2,1-2 Miles,North America,50,No
+13390,M,F," $70,000 ",4,Partial College,Professional,No,1,1-2 Miles,North America,56,No
+17482,S,F," $40,000 ",0,Partial High School,Clerical,Yes,2,5-10 Miles,North America,29,No
+13176,S,M," $130,000 ",0,Graduate Degree,Management,No,2,0-1 Miles,North America,38,Yes
+20504,M,F," $40,000 ",5,High School,Professional,No,2,2-5 Miles,North America,60,No
+12205,S,F," $130,000 ",2,Bachelors,Management,No,4,0-1 Miles,North America,67,No
+16751,M,M," $60,000 ",0,Partial College,Skilled Manual,Yes,1,5-10 Miles,North America,32,Yes
+21613,S,M," $50,000 ",2,Bachelors,Skilled Manual,No,1,0-1 Miles,North America,39,Yes
+24801,S,M," $60,000 ",1,Graduate Degree,Professional,Yes,0,2-5 Miles,North America,35,Yes
+17519,M,F," $60,000 ",0,Partial College,Professional,Yes,2,5-10 Miles,North America,32,No
+18347,S,F," $30,000 ",0,Partial College,Skilled Manual,No,1,1-2 Miles,North America,31,No
+29052,S,M," $40,000 ",0,Partial College,Skilled Manual,Yes,1,5-10 Miles,North America,27,No
+11745,M,F," $60,000 ",1,Bachelors,Professional,Yes,1,0-1 Miles,North America,47,Yes
+19147,M,M," $40,000 ",0,Bachelors,Professional,No,1,0-1 Miles,North America,42,No
+19217,M,M," $30,000 ",2,High School,Skilled Manual,Yes,2,1-2 Miles,North America,49,No
+15839,S,M," $30,000 ",0,Partial College,Skilled Manual,Yes,1,5-10 Miles,North America,32,No
+13714,M,F," $20,000 ",2,High School,Manual,No,2,1-2 Miles,North America,53,Yes
+22330,M,M," $50,000 ",0,Graduate Degree,Skilled Manual,Yes,0,1-2 Miles,North America,32,Yes
+18783,single,M," $80,000 ",0,Bachelors,Management,No,1,0-1 Miles,North America,38,Yes
+25041,single,M," $40,000 ",0,High School,Skilled Manual,Yes,2,5-10 Miles,North America,31,No
+22046,single,F," $80,000 ",0,Bachelors,Management,No,1,0-1 Miles,North America,38,Yes
+28052,M,M," $60,000 ",2,High School,Professional,Yes,2,10+ Miles,North America,55,No
+26693,M,M," $70,000 ",3,Partial College,Professional,Yes,1,5-10 Miles,North America,49,No
+24955,S,M," $30,000 ",5,Partial High School,Skilled Manual,Yes,3,10+ Miles,North America,60,Yes
+26065,S,F," $110,000 ",3,Bachelors,Management,No,4,1-2 Miles,North America,42,No
+13942,M,M," $60,000 ",1,Partial College,Skilled Manual,Yes,1,0-1 Miles,North America,46,No
+11219,M,M," $60,000 ",2,High School,Professional,Yes,2,10+ Miles,North America,55,No
+22118,S,F," $70,000 ",3,Graduate Degree,Management,Yes,2,5-10 Miles,North America,53,Yes
+23197,M,M," $50,000 ",3,Bachelors,Skilled Manual,Yes,2,2-5 Miles,North America,40,No
+14883,M,F," $30,000 ",1,Bachelors,Skilled Manual,Yes,1,5-10 Miles,North America,53,Yes
+27279,S,F," $70,000 ",2,Bachelors,Skilled Manual,Yes,0,2-5 Miles,North America,38,Yes
+18322,S,M," $30,000 ",0,Partial High School,Clerical,No,2,0-1 Miles,North America,26,No
+15879,M,M," $70,000 ",5,Bachelors,Management,Yes,2,2-5 Miles,North America,61,No
+28278,M,M," $50,000 ",2,Graduate Degree,Management,Yes,2,5-10 Miles,North America,71,No
+24416,M,M," $90,000 ",4,High School,Professional,Yes,2,1-2 Miles,North America,45,No
+28066,M,M," $80,000 ",2,Graduate Degree,Professional,Yes,0,0-1 Miles,North America,37,Yes
+11275,M,F," $80,000 ",4,Graduate Degree,Management,Yes,2,0-1 Miles,North America,72,Yes
+14872,M,M," $30,000 ",0,Graduate Degree,Skilled Manual,Yes,0,0-1 Miles,North America,32,No
+16151,M,F," $60,000 ",1,Bachelors,Professional,Yes,1,2-5 Miles,North America,48,Yes
+19731,M,M," $80,000 ",4,Graduate Degree,Management,Yes,2,5-10 Miles,North America,68,No
+23801,M,F," $20,000 ",2,Partial High School,Clerical,Yes,2,0-1 Miles,North America,49,No
+11807,M,M," $70,000 ",3,Graduate Degree,Professional,Yes,0,2-5 Miles,North America,34,No
+11622,M,M," $50,000 ",0,Graduate Degree,Skilled Manual,Yes,0,0-1 Miles,North America,32,No
+26597,S,F," $60,000 ",4,Bachelors,Skilled Manual,No,2,0-1 Miles,North America,42,No
+27074,M,F," $70,000 ",1,Graduate Degree,Skilled Manual,Yes,0,0-1 Miles,North America,35,Yes
+19228,M,F," $40,000 ",2,Partial College,Clerical,Yes,1,0-1 Miles,North America,48,No
+13415,S,M," $100,000 ",1,Graduate Degree,Management,Yes,3,2-5 Miles,North America,73,Yes
+17000,S,F," $70,000 ",4,Bachelors,Skilled Manual,Yes,2,2-5 Miles,North America,43,Yes
+14569,M,M," $60,000 ",1,Graduate Degree,Professional,Yes,0,0-1 Miles,North America,35,No
+13873,M,M," $70,000 ",3,Graduate Degree,Professional,Yes,0,0-1 Miles,North America,35,Yes
+20401,M,F," $50,000 ",4,Bachelors,Management,Yes,2,1-2 Miles,North America,64,Yes
+21583,M,F," $50,000 ",1,Bachelors,Skilled Manual,Yes,0,0-1 Miles,North America,34,Yes
+12029,M,M," $30,000 ",0,Partial High School,Clerical,No,2,0-1 Miles,North America,28,No
+18066,S,M," $70,000 ",5,Bachelors,Management,Yes,3,10+ Miles,North America,60,Yes
+28192,M,F," $70,000 ",5,Graduate Degree,Professional,Yes,3,10+ Miles,North America,46,No
+16122,M,M," $40,000 ",4,High School,Skilled Manual,Yes,2,0-1 Miles,North America,44,Yes
+18607,S,F," $60,000 ",4,Bachelors,Skilled Manual,Yes,2,2-5 Miles,North America,42,Yes
+28858,S,M," $80,000 ",3,Bachelors,Skilled Manual,Yes,0,2-5 Miles,North America,40,No
+14432,S,Male," $90,000 ",4,Graduate Degree,Management,Yes,1,5-10 Miles,North America,73,No
+26305,S,F," $60,000 ",2,Bachelors,Skilled Manual,No,0,0-1 Miles,North America,36,Yes
+22050,S,M," $90,000 ",4,Bachelors,Management,Yes,1,1-2 Miles,North America,38,Yes
+25394,M,M," $60,000 ",1,Graduate Degree,Professional,Yes,0,2-5 Miles,North America,34,Yes
+19747,M,M," $50,000 ",4,Bachelors,Management,Yes,2,10+ Miles,North America,63,No
+23195,S,M," $50,000 ",3,Bachelors,Skilled Manual,Yes,2,2-5 Miles,North America,41,Yes
+21695,M,M," $60,000 ",0,Graduate Degree,Skilled Manual,Yes,0,1-2 Miles,North America,39,Yes
+13934,M,M," $40,000 ",4,High School,Skilled Manual,Yes,2,2-5 Miles,North America,46,No
+13337,M,F," $80,000 ",5,Bachelors,Management,Yes,2,5-10 Miles,North America,64,No
+27190,M,F," $40,000 ",3,Partial College,Clerical,Yes,1,1-2 Miles,North America,32,No
+28657,S,M," $60,000 ",2,Bachelors,Skilled Manual,Yes,0,2-5 Miles,North America,36,Yes
+21713,S,M," $80,000 ",5,Graduate Degree,Skilled Manual,No,0,0-1 Miles,North America,47,n
+21752,M,M," $60,000 ",3,Graduate Degree,Management,Yes,2,10+ Miles,North America,64,No
+27273,S,M," $70,000 ",3,Graduate Degree,Professional,No,0,0-1 Miles,North America,35,Yes
+22719,S,M," $110,000 ",3,Bachelors,Management,Yes,4,2-5 Miles,North America,40,Yes
+22042,M,F," $70,000 ",0,Partial College,Skilled Manual,Yes,2,5-10 Miles,North America,34,Yes
+21451,M,F," $40,000 ",4,High School,Professional,Yes,2,10+ Miles,North America,61,No
+20754,M,M," $30,000 ",2,High School,Skilled Manual,Yes,2,1-2 Miles,North America,51,No
+12153,single,F," $70,000 ",3,Partial College,Professional,Yes,1,5-10 Miles,North America,49,Yes
+16895,M,F," $40,000 ",3,Partial College,Professional,No,2,1-2 Miles,North America,54,Yes
+26728,S,M," $70,000 ",3,Graduate Degree,Management,No,2,1-2 Miles,North America,53,Yes
+11090,S,Male," $90,000 ",2,Partial College,Professional,Yes,1,2-5 Miles,North America,48,Yes
+15862,S,F," $50,000 ",0,Graduate Degree,Skilled Manual,Yes,0,1-2 Miles,North America,33,Yes
+26495,S,F," $40,000 ",2,High School,Professional,Yes,2,10+ Miles,North America,57,No
+11823,M,F," $70,000 ",0,Graduate Degree,Professional,Yes,0,2-5 Miles,North America,39,No
+23449,M,M," $60,000 ",2,High School,Professional,Yes,2,5-10 Miles,North America,48,No
+23459,M,M," $60,000 ",2,High School,Professional,Yes,2,5-10 Miles,North America,50,No
+19543,M,M," $70,000 ",5,Graduate Degree,Professional,No,3,10+ Miles,North America,47,No
+14914,M,F," $40,000 ",1,Partial College,Clerical,Yes,1,1-2 Miles,North America,49,Yes
+12033,S,F," $40,000 ",0,High School,Skilled Manual,No,2,0-1 Miles,North America,27,Yes
+11941,single,M," $60,000 ",0,Partial College,Skilled Manual,Yes,0,5-10 Miles,North America,29,No
+14389,M,M," $60,000 ",2,Bachelors,Management,Yes,0,2-5 Miles,North America,59,No
+18050,M,F," $60,000 ",1,Partial College,Skilled Manual,Yes,1,0-1 Miles,North America,45,Yes
+19856,M,F," $60,000 ",4,Bachelors,Management,Yes,2,2-5 Miles,North America,60,No
+11663,M,M," $70,000 ",4,Graduate Degree,Professional,Yes,0,0-1 Miles,North America,36,Yes
+27740,M,F," $40,000 ",0,High School,Skilled Manual,Yes,2,5-10 Miles,North America,27,No
+23455,S,M," $80,000 ",2,Partial High School,Skilled Manual,No,2,1-2 Miles,North America,50,No
+15292,S,F," $60,000 ",1,Graduate Degree,Skilled Manual,Yes,0,1-2 Miles,North America,35,No
+21587,M,F," $60,000 ",1,Graduate Degree,Skilled Manual,Yes,0,2-5 Miles,North America,34,Yes
+23513,M,F," $40,000 ",3,Partial College,Professional,Yes,2,5-10 Miles,North America,54,No
+24322,M,F," $60,000 ",4,Bachelors,Skilled Manual,No,2,0-1 Miles,North America,42,No
+26298,M,F," $50,000 ",1,Bachelors,Skilled Manual,Yes,0,2-5 Miles,North America,34,Yes
+25419,S,M," $50,000 ",2,Bachelors,Skilled Manual,No,1,0-1 Miles,North America,38,Yes
+13343,M,F," $90,000 ",5,Bachelors,Management,Yes,2,1-2 Miles,North America,63,Yes
+11303,S,F," $90,000 ",4,High School,Professional,No,3,1-2 Miles,North America,45,Yes
+21693,S,F," $60,000 ",0,Graduate Degree,Skilled Manual,No,0,0-1 Miles,North America,40,No
+28056,M,M," $70,000 ",2,Partial High School,Skilled Manual,Yes,2,10+ Miles,North America,53,No
+11788,S,F," $70,000 ",1,Graduate Degree,Professional,Yes,0,2-5 Miles,North America,34,No
+22296,M,M," $70,000 ",0,Bachelors,Professional,No,1,0-1 Miles,North America,38,No
+15319,M,F," $70,000 ",4,Bachelors,Management,No,1,1-2 Miles,North America,59,No
+17654,S,F," $40,000 ",3,Partial College,Clerical,Yes,1,1-2 Miles,North America,30,Yes
+14662,M,M," $60,000 ",1,Bachelors,Professional,Yes,1,0-1 Miles,North America,48,Yes
+17541,M,F," $40,000 ",4,High School,Skilled Manual,Yes,2,2-5 Miles,North America,43,No
+13886,M,F," $70,000 ",4,Graduate Degree,Professional,Yes,0,2-5 Miles,North America,35,Yes
+13073,M,F," $60,000 ",0,Partial College,Professional,Yes,2,5-10 Miles,North America,30,No
+21940,M,M," $90,000 ",5,Graduate Degree,Professional,Yes,0,0-1 Miles,North America,47,Yes
+20196,M,M," $60,000 ",1,Partial College,Skilled Manual,Yes,1,2-5 Miles,North America,45,Yes
+23491,S,M," $100,000 ",0,Partial College,Professional,No,4,1-2 Miles,North America,45,No
+16651,M,F," $120,000 ",2,Bachelors,Management,Yes,3,5-10 Miles,North America,62,No
+16813,M,M," $60,000 ",2,Partial College,Professional,Yes,2,10+ Miles,North America,55,N
+16007,M,F," $90,000 ",5,Bachelors,Management,Yes,2,1-2 Miles,North America,66,Y
+27434,single,M," $70,000 ",4,Partial College,Professional,Yes,1,10+ Miles,North America,56,No
+27756,S,F," $50,000 ",3,Bachelors,Skilled Manual,No,1,0-1 Miles,North America,40,No
+23818,M,F," $50,000 ",0,Graduate Degree,Skilled Manual,Yes,0,1-2 Miles,North America,33,Yes
+19012,M,M," $80,000 ",3,Bachelors,Management,Yes,1,1-2 Miles,North America,56,No
+18329,S,M," $30,000 ",0,Partial High School,Clerical,No,2,5-10 Miles,North America,27,No
+29037,M,M," $60,000 ",0,Graduate Degree,Professional,No,0,0-1 Miles,North America,39,No
+26576,M,F," $60,000 ",0,Partial College,Skilled Manual,Yes,2,5-10 Miles,North America,31,No
+12192,S,F," $60,000 ",2,Partial High School,Skilled Manual,No,2,1-2 Miles,North America,51,N
+14887,M,F," $30,000 ",1,High School,Clerical,Yes,1,5-10 Miles,North America,52,No
+11734,M,M," $60,000 ",1,Partial College,Skilled Manual,No,1,0-1 Miles,North America,47,No
+17462,M,M," $70,000 ",3,Graduate Degree,Management,Yes,2,5-10 Miles,North America,53,Yes
+20659,M,M," $70,000 ",3,Graduate Degree,Professional,Yes,0,0-1 Miles,North America,35,Yes
+28004,M,F," $60,000 ",3,Bachelors,Management,Yes,2,10+ Miles,North America,66,No
+19741,S,F," $80,000 ",4,Graduate Degree,Management,Yes,2,5-10 Miles,North America,65,No
+17450,M,M," $80,000 ",5,Partial College,Professional,Yes,3,5-10 Miles,North America,45,No
+17337,S,M," $40,000 ",0,High School,Skilled Manual,Yes,1,5-10 Miles,North America,31,No
+18594,S,F," $80,000 ",3,Bachelors,Skilled Manual,Yes,3,10+ Miles,North America,40,Yes
+15982,M,M," $110,000 ",5,Partial College,Professional,Yes,4,2-5 Miles,North America,46,No
+28625,S,M," $40,000 ",2,Partial College,Clerical,No,1,1-2 Miles,North America,47,Yes
+11269,Maride,M," $130,000 ",2,Graduate Degree,Management,Yes,2,0-1 Miles,North America,41,No
+25148,M,M," $60,000 ",2,High School,Professional,No,2,1-2 Miles,North America,48,Yes
+13920,S,F," $50,000 ",4,Bachelors,Skilled Manual,Yes,2,0-1 Miles,North America,42,No
+23704,S,M," $40,000 ",5,High School,Professional,Yes,4,10+ Miles,North America,60,Yes
+28972,S,F," $60,000 ",3,Graduate Degree,Management,Yes,2,10+ Miles,North America,66,No
+22730,M,M," $70,000 ",5,Bachelors,Management,Yes,2,10+ Miles,North America,63,N
+29134,M,M," $60,000 ",4,Bachelors,Skilled Manual,No,3,10+ Miles,North America,42,No
+14332,S,F," $30,000 ",0,High School,Skilled Manual,No,2,5-10 Miles,North America,26,No
+19117,S,F," $60,000 ",1,Graduate Degree,Professional,Yes,0,2-5 Miles,North America,36,Yes
+22864,M,M," $90,000 ",2,Partial College,Professional,No,0,5-10 Miles,North America,49,Yes
+11292,S,M," $150,000 ",1,Partial College,Professional,No,3,0-1 Miles,North America,44,Yes
+13466,M,M," $80,000 ",5,Partial College,Professional,Yes,3,1-2 Miles,North America,46,No
+23731,M,M," $60,000 ",2,High School,Professional,Yes,2,2-5 Miles,North America,54,Yes
+28672,S,M," $70,000 ",4,Graduate Degree,Professional,Yes,0,2-5 Miles,North America,35,Yes
+11809,M,M," $60,000 ",2,Bachelors,Skilled Manual,Yes,0,0-1 Miles,North America,38,Yes
+19664,S,M," $100,000 ",3,Bachelors,Management,No,3,1-2 Miles,North America,38,No
+12121,S,M," $60,000 ",3,High School,Professional,Yes,2,10+ Miles,North America,53,Yes
+13507,M,F," $10,000 ",2,Partial College,Manual,Yes,0,1-2 Miles,Europe,50,No
+19280,M,M," $120,000 ",2,Partial College,Manual,Yes,1,0-1 Miles,Europe,40,Yes
+22173,M,F," $30,000 ",3,High School,Skilled Manual,No,2,1-2 Miles,Pacific,54,y
+12697,S,F," $90,000 ",0,Bachelors,Professional,No,4,10+ Miles,Pacific,36,No
+11434,M,M," $170,000 ",5,Partial College,Professional,Yes,0,0-1 Miles,Europe,55,No
+25323,M,M," $40,000 ",2,Partial College,Clerical,Yes,1,1-2 Miles,Europe,35,Yes
+23542,S,M," $60,000 ",1,Partial College,Skilled Manual,No,1,0-1 Miles,Pacific,45,Yes
+20870,S,F," $10,000 ",2,High School,Manual,Yes,1,0-1 Miles,Europe,38,Yes
+23316,S,M," $30,000 ",3,Partial College,Clerical,No,2,1-2 Miles,Pacific,59,Yes
+12610,M,F," $30,000 ",1,Bachelors,Clerical,Yes,0,0-1 Miles,Europe,47,N
+27183,S,M," $40,000 ",2,Partial College,Clerical,Yes,1,1-2 Miles,Europe,35,Yes
+25940,Single,M," $20,000 ",2,Partial High School,Clerical,Yes,2,5-10 Miles,Pacific,55,Yes
+25598,M,F," $40,000 ",0,Graduate Degree,Clerical,Yes,0,0-1 Miles,Europe,36,Yes
+21564,S,F," $80,000 ",0,Bachelors,Professional,Yes,4,10+ Miles,Pacific,35,No
+19193,S,M," $40,000 ",2,Partial College,Clerical,Yes,0,1-2 Miles,Europe,35,Yes
+26412,M,F," $80,000 ",5,High School,Management,No,3,5-10 Miles,Europe,56,No
+27184,S,M," $40,000 ",2,Partial College,Clerical,No,1,0-1 Miles,Europe,34,No
+12590,S,M," $30,000 ",1,Bachelors,Clerical,Yes,0,0-1 Miles,Europe,63,No
+17841,S,M," $30,000 ",0,Partial College,Clerical,No,1,0-1 Miles,Europe,29,Yes
+18283,S,F," $100,000 ",0,Bachelors,Professional,No,1,5-10 Miles,Pacific,40,No
+18299,M,M," $70,000 ",5,Partial College,Skilled Manual,Yes,2,5-10 Miles,Pacific,44,No
+16466,S,F," $20,000 ",0,Partial High School,Manual,No,2,0-1 Miles,Europe,32,Yes
+19273,M,F," $20,000 ",2,Partial College,Manual,Yes,0,0-1 Miles,Europe,63,No
+22400,M,M," $10,000 ",0,Partial College,Manual,No,1,0-1 Miles,Pacific,26,Y
+20942,S,F," $20,000 ",0,High School,Manual,No,1,5-10 Miles,Europe,31,N
+18484,Single,male," $80,000 ",2,High School,Skilled Manual,No,2,1-2 Miles,Pacific,50,Yes
